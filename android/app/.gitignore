@@ -7,6 +7,6 @@
 .externalNativeBuild
 .idea
 gradle
-.keystore
+*.keystore
 /check
 /product
