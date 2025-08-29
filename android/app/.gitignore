@@ -7,4 +7,4 @@
 .externalNativeBuild
 .idea
 gradle
-
+.keystore
