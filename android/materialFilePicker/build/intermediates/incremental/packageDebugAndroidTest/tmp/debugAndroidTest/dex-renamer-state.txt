@@ -1,4 +1,0 @@
-#Fri Dec 27 13:09:47 CST 2024
-base.0=/Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

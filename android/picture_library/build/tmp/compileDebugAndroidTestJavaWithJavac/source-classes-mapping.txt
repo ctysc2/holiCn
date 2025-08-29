@@ -1,2 +1,0 @@
-com/luck/picture/lib/test/BuildConfig.java
- com.luck.picture.lib.test.BuildConfig

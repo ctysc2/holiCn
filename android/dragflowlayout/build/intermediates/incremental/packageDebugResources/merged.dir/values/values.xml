@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">DragFlowLayout</string>
-    <declare-styleable name="FlowLayout">
-        <attr format="reference|integer" name="flowLayout_maxLine"/>
-        <attr format="dimension|reference" name="flowLayout_horizontal_space"/>
-        <attr format="dimension|reference" name="flowLayout_vertical_space"/>
-    </declare-styleable>
-</resources>

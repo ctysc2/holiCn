@@ -1,4 +1,0 @@
-com/example/zxingqr/ExampleInstrumentedTest.java
- com.example.zxingqr.ExampleInstrumentedTest
-com/example/zxingqr/test/BuildConfig.java
- com.example.zxingqr.test.BuildConfig

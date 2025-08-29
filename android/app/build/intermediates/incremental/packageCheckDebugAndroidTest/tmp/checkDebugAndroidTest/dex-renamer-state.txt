@@ -1,4 +1,0 @@
-#Fri Dec 27 13:10:22 CST 2024
-base.0=/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/dex/checkDebugAndroidTest/mergeProjectDexCheckDebugAndroidTest/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

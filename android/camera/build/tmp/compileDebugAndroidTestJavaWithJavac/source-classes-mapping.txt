@@ -1,2 +1,0 @@
-com/mobilemd/cameralibrary/test/BuildConfig.java
- com.mobilemd.cameralibrary.test.BuildConfig

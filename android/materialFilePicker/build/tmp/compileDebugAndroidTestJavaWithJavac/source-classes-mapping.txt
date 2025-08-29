@@ -1,2 +1,0 @@
-com/nbsp/materialfilepicker/test/BuildConfig.java
- com.nbsp.materialfilepicker.test.BuildConfig

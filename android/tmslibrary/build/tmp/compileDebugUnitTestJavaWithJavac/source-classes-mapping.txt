@@ -1,2 +1,0 @@
-com/loop/tmslibrary/ExampleUnitTest.java
- com.loop.tmslibrary.ExampleUnitTest
