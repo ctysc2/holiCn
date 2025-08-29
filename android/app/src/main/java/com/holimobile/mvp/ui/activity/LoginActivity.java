@@ -177,23 +177,10 @@ public class LoginActivity extends BaseActivity {
 //                startActivity(intent);
                 break;
             case R.id.tv_forget:
-//                intent = new Intent(this, WebViewActivity.class);
-//                intent.putExtra("url",NetWorkConfigUtil.getH5UrlByCode(1002));
-//                intent.putExtra("title","忘记密码");
-//                startActivity(intent);
-                PictureSelector.create(LoginActivity.this)
-                        .openGallery(PictureMimeType.ofImage())
-                        .isWeChatStyle(false)
-                        .isCamera(true)
-                        .selectionMode(PictureConfig.SINGLE)
-                        .isSingleDirectReturn(true)
-                        .isGif(true)
-                        .enableCrop(false)
-                        .rotateEnabled(false)
-                        .previewImage(false)
-                        .maxSelectNum(1)
-                        .loadImageEngine(GlideEngine.createGlideEngine()) // 请参考Demo GlideEngine.java
-                        .forResult(RESULT_PICK_FROM_PHOTO_NORMAL);
+                intent = new Intent(this, WebViewActivity.class);
+                intent.putExtra("url",NetWorkConfigUtil.getH5UrlByCode(1002));
+                intent.putExtra("title","忘记密码");
+                startActivity(intent);
                 break;
             default:
                 break;

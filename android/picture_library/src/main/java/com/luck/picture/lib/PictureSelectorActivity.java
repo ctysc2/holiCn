@@ -1,5 +1,7 @@
 package com.luck.picture.lib;
 
+import static com.luck.picture.lib.permissions.PermissionChecker.getReadPermissionName;
+
 import android.Manifest;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -120,7 +122,7 @@ public class PictureSelectorActivity extends PictureBaseActivity implements View
         // 这里只针对权限被手动拒绝后进入设置页面重新获取权限后的操作
         if (isEnterSetting) {
             if (PermissionChecker
-                    .checkSelfPermission(this, "android.permission.READ_MEDIA_IMAGES") &&
+                    .checkSelfPermission(this, getReadPermissionName()) &&
                     PermissionChecker
                             .checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
                 if (mAdapter.isDataEmpty()) {
@@ -235,7 +237,7 @@ public class PictureSelectorActivity extends PictureBaseActivity implements View
      */
     private void loadAllMediaData() {
         if (PermissionChecker
-                .checkSelfPermission(this, "android.permission.READ_MEDIA_IMAGES") &&
+                .checkSelfPermission(this, getReadPermissionName()) &&
                 PermissionChecker
                         .checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
             readLocalMedia();
@@ -243,7 +245,7 @@ public class PictureSelectorActivity extends PictureBaseActivity implements View
         } else {
             Log.i("Basf","permission not granted");
             PermissionChecker.requestPermissions(this, new String[]{
-                    "android.permission.READ_MEDIA_IMAGES",
+                    getReadPermissionName(),
                     Manifest.permission.WRITE_EXTERNAL_STORAGE}, PictureConfig.APPLY_STORAGE_PERMISSIONS_CODE);
         }
     }
@@ -1019,7 +1021,7 @@ public class PictureSelectorActivity extends PictureBaseActivity implements View
                 startCamera();
             } else {
                 PermissionChecker.requestPermissions(this, new String[]{
-                        "android.permission.READ_MEDIA_IMAGES",
+                        getReadPermissionName(),
                         Manifest.permission.WRITE_EXTERNAL_STORAGE}, PictureConfig.APPLY_CAMERA_STORAGE_PERMISSIONS_CODE);
             }
         } else {

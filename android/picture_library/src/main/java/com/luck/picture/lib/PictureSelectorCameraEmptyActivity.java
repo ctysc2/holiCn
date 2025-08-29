@@ -1,5 +1,7 @@
 package com.luck.picture.lib;
 
+import static com.luck.picture.lib.permissions.PermissionChecker.getReadPermissionName;
+
 import android.Manifest;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -51,13 +53,13 @@ public class PictureSelectorCameraEmptyActivity extends PictureBaseActivity {
         if (!config.isUseCustomCamera) {
             if (savedInstanceState == null) {
                 if (PermissionChecker
-                        .checkSelfPermission(this, "android.permission.READ_MEDIA_IMAGES") &&
+                        .checkSelfPermission(this, getReadPermissionName()) &&
                         PermissionChecker
                                 .checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
                     onTakePhoto();
                 } else {
                     PermissionChecker.requestPermissions(this, new String[]{
-                            "android.permission.READ_MEDIA_IMAGES",
+                            getReadPermissionName(),
                             Manifest.permission.WRITE_EXTERNAL_STORAGE}, PictureConfig.APPLY_STORAGE_PERMISSIONS_CODE);
                 }
             }

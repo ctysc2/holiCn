@@ -113,8 +113,8 @@ public class RetrofitManager {
                             .writeTimeout(60, TimeUnit.SECONDS)
                             .retryOnConnectionFailure(true)
                             .addInterceptor(mLoggingInterceptor)
-                            .sslSocketFactory(getSSLSocketFactory())
-                            .hostnameVerifier(getHostnameVerifier())
+//                            .sslSocketFactory(getSSLSocketFactory())
+//                            .hostnameVerifier(getHostnameVerifier())
                             .addNetworkInterceptor(mRewriteCacheControlInterceptor)
                             .build();
                 }

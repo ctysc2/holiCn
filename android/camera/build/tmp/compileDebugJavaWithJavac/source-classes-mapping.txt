@@ -57,11 +57,8 @@ com/mobilemd/cameralibrary/CaptureLayout.java
  com.mobilemd.cameralibrary.CaptureLayout$2
 com/mobilemd/cameralibrary/listener/CaptureListener.java
  com.mobilemd.cameralibrary.listener.CaptureListener
-com/mobilemd/cameralibrary/TMH5Manager.java
- com.mobilemd.cameralibrary.TMH5Manager
- com.mobilemd.cameralibrary.TMH5Manager$1
- com.mobilemd.cameralibrary.TMH5Manager$2
- com.mobilemd.cameralibrary.TMH5Manager$TMH5Listener
+com/mobilemd/cameralibrary/util/CheckPermission.java
+ com.mobilemd.cameralibrary.util.CheckPermission
 com/mobilemd/cameralibrary/util/LogUtil.java
  com.mobilemd.cameralibrary.util.LogUtil
 com/mobilemd/cameralibrary/state/CameraMachine.java
@@ -123,5 +120,8 @@ com/mobilemd/cameralibrary/util/ScreenUtils.java
  com.mobilemd.cameralibrary.util.ScreenUtils
 com/mobilemd/cameralibrary/util/JsonUtil.java
  com.mobilemd.cameralibrary.util.JsonUtil
-com/mobilemd/cameralibrary/util/CheckPermission.java
- com.mobilemd.cameralibrary.util.CheckPermission
+com/mobilemd/cameralibrary/TMH5Manager.java
+ com.mobilemd.cameralibrary.TMH5Manager
+ com.mobilemd.cameralibrary.TMH5Manager$1
+ com.mobilemd.cameralibrary.TMH5Manager$2
+ com.mobilemd.cameralibrary.TMH5Manager$TMH5Listener

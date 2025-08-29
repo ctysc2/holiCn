@@ -27,8 +27,8 @@ com/luck/picture/lib/dialog/PictureCustomDialog.java
  com.luck.picture.lib.dialog.PictureCustomDialog
 com/luck/picture/lib/photoview/PhotoView.java
  com.luck.picture.lib.photoview.PhotoView
-com/luck/picture/lib/PictureSelectorWeChatStyleActivity.java
- com.luck.picture.lib.PictureSelectorWeChatStyleActivity
+com/luck/picture/lib/compress/OnCompressListener.java
+ com.luck.picture.lib.compress.OnCompressListener
 com/luck/picture/lib/compress/CompressionPredicate.java
  com.luck.picture.lib.compress.CompressionPredicate
 com/luck/picture/lib/camera/listener/CaptureListener.java
@@ -54,13 +54,8 @@ androidx/camera/view/TextureViewMeteringPointFactory.java
  androidx.camera.view.TextureViewMeteringPointFactory
 com/luck/picture/lib/broadcast/BroadcastManager.java
  com.luck.picture.lib.broadcast.BroadcastManager
-com/luck/picture/lib/PictureExternalPreviewActivity.java
- com.luck.picture.lib.PictureExternalPreviewActivity
- com.luck.picture.lib.PictureExternalPreviewActivity$1
- com.luck.picture.lib.PictureExternalPreviewActivity$2
- com.luck.picture.lib.PictureExternalPreviewActivity$3
- com.luck.picture.lib.PictureExternalPreviewActivity$SimpleFragmentAdapter
- com.luck.picture.lib.PictureExternalPreviewActivity$SimpleFragmentAdapter$1
+com/luck/picture/lib/compress/InputStreamProvider.java
+ com.luck.picture.lib.compress.InputStreamProvider
 com/luck/picture/lib/widget/FolderPopWindow.java
  com.luck.picture.lib.widget.FolderPopWindow
 com/luck/picture/lib/language/LanguageConfig.java
@@ -97,8 +92,8 @@ androidx/camera/view/TextureViewImplementation.java
  androidx.camera.view.TextureViewImplementation
  androidx.camera.view.TextureViewImplementation$1
  androidx.camera.view.TextureViewImplementation$1$1
-com/luck/picture/lib/permissions/PermissionChecker.java
- com.luck.picture.lib.permissions.PermissionChecker
+com/luck/picture/lib/config/PictureMimeType.java
+ com.luck.picture.lib.config.PictureMimeType
 com/luck/picture/lib/widget/longimage/SkiaImageRegionDecoder.java
  com.luck.picture.lib.widget.longimage.SkiaImageRegionDecoder
 com/luck/picture/lib/crash/PictureSelectorCrashUtils.java
@@ -138,20 +133,16 @@ com/luck/picture/lib/thread/PictureThreadUtils.java
  com.luck.picture.lib.thread.PictureThreadUtils$UtilsThreadFactory$2
 com/luck/picture/lib/tools/AttrsUtils.java
  com.luck.picture.lib.tools.AttrsUtils
-com/luck/picture/lib/PictureBaseActivity.java
- com.luck.picture.lib.PictureBaseActivity
- com.luck.picture.lib.PictureBaseActivity$1
- com.luck.picture.lib.PictureBaseActivity$2
- com.luck.picture.lib.PictureBaseActivity$3
+com/luck/picture/lib/observable/ImagesObservable.java
+ com.luck.picture.lib.observable.ImagesObservable
 com/luck/picture/lib/entity/LocalMedia.java
  com.luck.picture.lib.entity.LocalMedia
  com.luck.picture.lib.entity.LocalMedia$1
 com/luck/picture/lib/adapter/PictureSimpleFragmentAdapter.java
  com.luck.picture.lib.adapter.PictureSimpleFragmentAdapter
  com.luck.picture.lib.adapter.PictureSimpleFragmentAdapter$OnCallBackActivity
-com/luck/picture/lib/PictureCustomCameraActivity.java
- com.luck.picture.lib.PictureCustomCameraActivity
- com.luck.picture.lib.PictureCustomCameraActivity$1
+com/luck/picture/lib/tools/MediaUtils.java
+ com.luck.picture.lib.tools.MediaUtils
 com/luck/picture/lib/compress/Luban.java
  com.luck.picture.lib.compress.Luban
  com.luck.picture.lib.compress.Luban$1
@@ -209,8 +200,8 @@ com/luck/picture/lib/PictureFileProvider.java
  com.luck.picture.lib.PictureFileProvider
 com/luck/picture/lib/camera/listener/CameraListener.java
  com.luck.picture.lib.camera.listener.CameraListener
-com/luck/picture/lib/PictureSelectionModel.java
- com.luck.picture.lib.PictureSelectionModel
+com/luck/picture/lib/widget/longimage/ImageSource.java
+ com.luck.picture.lib.widget.longimage.ImageSource
 com/luck/picture/lib/tools/SdkVersionUtils.java
  com.luck.picture.lib.tools.SdkVersionUtils
 com/luck/picture/lib/PictureVideoPlayActivity.java
@@ -317,14 +308,10 @@ androidx/camera/view/FixedSizeSurfaceTexture.java
  androidx.camera.view.FixedSizeSurfaceTexture
 com/luck/picture/lib/tools/StringUtils.java
  com.luck.picture.lib.tools.StringUtils
-com/luck/picture/lib/PictureSelectorActivity.java
- com.luck.picture.lib.PictureSelectorActivity
- com.luck.picture.lib.PictureSelectorActivity$1
- com.luck.picture.lib.PictureSelectorActivity$2
- com.luck.picture.lib.PictureSelectorActivity$3
- com.luck.picture.lib.PictureSelectorActivity$4
- com.luck.picture.lib.PictureSelectorActivity$5
- com.luck.picture.lib.PictureSelectorActivity$audioOnClick
+androidx/camera/view/SurfaceViewImplementation.java
+ androidx.camera.view.SurfaceViewImplementation
+ androidx.camera.view.SurfaceViewImplementation$1
+ androidx.camera.view.SurfaceViewImplementation$CompleterWithSizeCallback
 com/luck/picture/lib/PictureSelectorPreviewWeChatStyleActivity.java
  com.luck.picture.lib.PictureSelectorPreviewWeChatStyleActivity
 com/luck/picture/lib/camera/view/CaptureButton.java
@@ -344,10 +331,8 @@ com/luck/picture/lib/PicturePlayAudioActivity.java
  com.luck.picture.lib.PicturePlayAudioActivity$3
 com/luck/picture/lib/tools/PictureFileUtils.java
  com.luck.picture.lib.tools.PictureFileUtils
-com/luck/picture/lib/PictureSelectorCameraEmptyActivity.java
- com.luck.picture.lib.PictureSelectorCameraEmptyActivity
- com.luck.picture.lib.PictureSelectorCameraEmptyActivity$1
- com.luck.picture.lib.PictureSelectorCameraEmptyActivity$2
+com/luck/picture/lib/camera/view/ReturnButton.java
+ com.luck.picture.lib.camera.view.ReturnButton
 com/luck/picture/lib/camera/CheckPermission.java
  com.luck.picture.lib.camera.CheckPermission
 com/luck/picture/lib/language/LocaleTransform.java
@@ -359,21 +344,36 @@ com/luck/picture/lib/camera/view/CaptureLayout.java
  com.luck.picture.lib.camera.view.CaptureLayout$1
  com.luck.picture.lib.camera.view.CaptureLayout$2
  com.luck.picture.lib.camera.view.CaptureLayout$3
-com/luck/picture/lib/compress/InputStreamProvider.java
- com.luck.picture.lib.compress.InputStreamProvider
-com/luck/picture/lib/tools/MediaUtils.java
- com.luck.picture.lib.tools.MediaUtils
-com/luck/picture/lib/config/PictureMimeType.java
- com.luck.picture.lib.config.PictureMimeType
-com/luck/picture/lib/compress/OnCompressListener.java
- com.luck.picture.lib.compress.OnCompressListener
-androidx/camera/view/SurfaceViewImplementation.java
- androidx.camera.view.SurfaceViewImplementation
- androidx.camera.view.SurfaceViewImplementation$1
- androidx.camera.view.SurfaceViewImplementation$CompleterWithSizeCallback
-com/luck/picture/lib/observable/ImagesObservable.java
- com.luck.picture.lib.observable.ImagesObservable
-com/luck/picture/lib/widget/longimage/ImageSource.java
- com.luck.picture.lib.widget.longimage.ImageSource
-com/luck/picture/lib/camera/view/ReturnButton.java
- com.luck.picture.lib.camera.view.ReturnButton
+com/luck/picture/lib/PictureSelectorCameraEmptyActivity.java
+ com.luck.picture.lib.PictureSelectorCameraEmptyActivity
+ com.luck.picture.lib.PictureSelectorCameraEmptyActivity$1
+ com.luck.picture.lib.PictureSelectorCameraEmptyActivity$2
+com/luck/picture/lib/PictureSelectionModel.java
+ com.luck.picture.lib.PictureSelectionModel
+com/luck/picture/lib/PictureBaseActivity.java
+ com.luck.picture.lib.PictureBaseActivity
+ com.luck.picture.lib.PictureBaseActivity$1
+ com.luck.picture.lib.PictureBaseActivity$2
+ com.luck.picture.lib.PictureBaseActivity$3
+com/luck/picture/lib/PictureSelectorActivity.java
+ com.luck.picture.lib.PictureSelectorActivity
+ com.luck.picture.lib.PictureSelectorActivity$1
+ com.luck.picture.lib.PictureSelectorActivity$2
+ com.luck.picture.lib.PictureSelectorActivity$3
+ com.luck.picture.lib.PictureSelectorActivity$4
+ com.luck.picture.lib.PictureSelectorActivity$5
+ com.luck.picture.lib.PictureSelectorActivity$audioOnClick
+com/luck/picture/lib/PictureSelectorWeChatStyleActivity.java
+ com.luck.picture.lib.PictureSelectorWeChatStyleActivity
+com/luck/picture/lib/permissions/PermissionChecker.java
+ com.luck.picture.lib.permissions.PermissionChecker
+com/luck/picture/lib/PictureCustomCameraActivity.java
+ com.luck.picture.lib.PictureCustomCameraActivity
+ com.luck.picture.lib.PictureCustomCameraActivity$1
+com/luck/picture/lib/PictureExternalPreviewActivity.java
+ com.luck.picture.lib.PictureExternalPreviewActivity
+ com.luck.picture.lib.PictureExternalPreviewActivity$1
+ com.luck.picture.lib.PictureExternalPreviewActivity$2
+ com.luck.picture.lib.PictureExternalPreviewActivity$3
+ com.luck.picture.lib.PictureExternalPreviewActivity$SimpleFragmentAdapter
+ com.luck.picture.lib.PictureExternalPreviewActivity$SimpleFragmentAdapter$1

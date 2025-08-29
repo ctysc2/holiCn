@@ -1,15 +1,20 @@
 package com.luck.picture.lib.permissions;
 
+import android.Manifest;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
+import android.os.Build;
 import android.provider.Settings;
 
 import androidx.annotation.NonNull;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
+
+import com.luck.picture.lib.BuildConfig;
+import com.luck.picture.lib.tools.SdkVersionUtils;
 
 /**
  * @author：luck
@@ -58,5 +63,14 @@ public class PermissionChecker {
                 .getPackageManager()
                 .queryIntentActivities(intent, PackageManager.MATCH_DEFAULT_ONLY)
                 .size() > 0;
+    }
+
+
+    public static String getReadPermissionName(){
+        if(Build.VERSION.SDK_INT > 32){
+            return "android.permission.READ_MEDIA_IMAGES";
+        }else{
+            return Manifest.permission.READ_EXTERNAL_STORAGE;
+        }
     }
 }
