@@ -1,0 +1,2 @@
+com/holimobile/test/BuildConfig.java
+ com.holimobile.test.BuildConfig

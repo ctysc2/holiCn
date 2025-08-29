@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/tv_recommend"
+    android:layout_marginBottom="10dp"
+    android:layout_marginRight="15dp"
+    android:maxLines="1"
+    android:gravity="center"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:textColor="@color/black"
+    android:textSize="12sp"
+    android:background="@drawable/shape_recommend_item"
+    android:layout_height="38dp">
+</TextView>
+

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ll_container"
+    android:orientation="vertical"
+    android:layout_marginRight="14dp"
+    android:gravity="center_horizontal"
+    android:background="@drawable/bac_hot_item"
+    android:layout_height="156dp">
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/iv_avatar"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="15dp"
+        fresco:actualImageScaleType="centerCrop"
+        fresco:roundAsCircle = "true"
+        />
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="15sp"
+        android:maxLines="1"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="许重远"
+        android:ellipsize="end"
+        />
+    <TextView
+        android:id="@+id/tv_position"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/color_gray_hint"
+        android:textSize="10sp"
+        android:text="主任医师中国科"
+        android:gravity="center"
+        android:maxLines="2"
+        android:ellipsize="middle"
+        android:layout_marginTop="10dp"
+        android:lineSpacingExtra="4dp" />
+
+</LinearLayout>
+

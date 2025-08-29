@@ -1,0 +1,61 @@
+com/example/zxingqr/camera/CameraManager.java
+ com.example.zxingqr.camera.CameraManager
+com/example/zxingqr/DisplayUtil.java
+ com.example.zxingqr.DisplayUtil
+com/example/zxingqr/camera/FlashlightManager.java
+ com.example.zxingqr.camera.FlashlightManager
+com/example/zxingqr/decoding/DecodeFormatManager.java
+ com.example.zxingqr.decoding.DecodeFormatManager
+com/example/zxingqr/activity/CaptureFragment.java
+ com.example.zxingqr.activity.CaptureFragment
+ com.example.zxingqr.activity.CaptureFragment$1
+ com.example.zxingqr.activity.CaptureFragment$CameraInitCallBack
+com/example/zxingqr/decoding/FinishListener.java
+ com.example.zxingqr.decoding.FinishListener
+com/example/zxingqr/activity/ZXingLibrary.java
+ com.example.zxingqr.activity.ZXingLibrary
+com/example/zxingqr/decoding/DecodeHandler.java
+ com.example.zxingqr.decoding.DecodeHandler
+com/example/zxingqr/BuildConfig.java
+ com.example.zxingqr.BuildConfig
+com/example/zxingqr/view/ViewfinderResultPointCallback.java
+ com.example.zxingqr.view.ViewfinderResultPointCallback
+com/example/zxingqr/view/ViewfinderView.java
+ com.example.zxingqr.view.ViewfinderView
+com/example/zxingqr/camera/CameraConfigurationManager.java
+ com.example.zxingqr.camera.CameraConfigurationManager
+com/example/zxingqr/decoding/DecodeThread.java
+ com.example.zxingqr.decoding.DecodeThread
+com/example/zxingqr/decoding/CaptureActivityHandler.java
+ com.example.zxingqr.decoding.CaptureActivityHandler
+ com.example.zxingqr.decoding.CaptureActivityHandler$State
+com/example/zxingqr/camera/PreviewCallback.java
+ com.example.zxingqr.camera.PreviewCallback
+com/example/zxingqr/encoding/EncodingHandler.java
+ com.example.zxingqr.encoding.EncodingHandler
+com/example/zxingqr/ZApplication.java
+ com.example.zxingqr.ZApplication
+com/example/zxingqr/camera/BitmapLuminanceSource.java
+ com.example.zxingqr.camera.BitmapLuminanceSource
+com/example/zxingqr/activity/CaptureActivity.java
+ com.example.zxingqr.activity.CaptureActivity
+ com.example.zxingqr.activity.CaptureActivity$1
+ com.example.zxingqr.activity.CaptureActivity$2
+com/example/zxingqr/camera/AutoFocusCallback.java
+ com.example.zxingqr.camera.AutoFocusCallback
+com/example/zxingqr/decoding/Intents.java
+ com.example.zxingqr.decoding.Intents
+ com.example.zxingqr.decoding.Intents$Encode
+ com.example.zxingqr.decoding.Intents$Scan
+ com.example.zxingqr.decoding.Intents$SearchBookContents
+ com.example.zxingqr.decoding.Intents$Share
+ com.example.zxingqr.decoding.Intents$WifiConnect
+com/example/zxingqr/activity/CodeUtils.java
+ com.example.zxingqr.activity.CodeUtils
+ com.example.zxingqr.activity.CodeUtils$AnalyzeCallback
+com/example/zxingqr/decoding/InactivityTimer.java
+ com.example.zxingqr.decoding.InactivityTimer
+ com.example.zxingqr.decoding.InactivityTimer$1
+ com.example.zxingqr.decoding.InactivityTimer$DaemonThreadFactory
+com/example/zxingqr/camera/PlanarYUVLuminanceSource.java
+ com.example.zxingqr.camera.PlanarYUVLuminanceSource

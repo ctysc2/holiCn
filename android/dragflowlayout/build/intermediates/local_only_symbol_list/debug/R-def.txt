@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+attr? flowLayout_horizontal_space
+attr? flowLayout_maxLine
+attr? flowLayout_vertical_space
+string app_name
+styleable FlowLayout flowLayout_maxLine flowLayout_horizontal_space flowLayout_vertical_space

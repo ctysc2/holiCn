@@ -1,0 +1,201 @@
+plugins {
+    id 'com.android.application'
+}
+apply plugin: 'com.aliyun.ams.emas-services'
+
+
+
+def getVersionCode() {// 获取版本号
+    def versionFile = file('versionCode.properties')// 读取第一步新建的文件
+    if (versionFile.canRead()) {// 判断文件读取异常
+        Properties versionProps = new Properties()
+        versionProps.load(new FileInputStream(versionFile))
+        def versionCode = versionProps['VERSION_CODE'].toInteger()// 读取文件里面的版本号
+        return versionCode // 返回版本号
+    } else {
+        throw new GradleException("Could not find version.properties!")
+    }
+}
+def getVersionShort() {// 获取版本号
+    def versionFile = file('versionCode.properties')// 读取第一步新建的文件
+    if (versionFile.canRead()) {// 判断文件读取异常
+        Properties versionProps = new Properties()
+        versionProps.load(new FileInputStream(versionFile))
+        def versionCode = versionProps['VERSION_SHORT']// 读取文件里面的版本号
+        return versionCode // 返回版本号
+    } else {
+        throw new GradleException("Could not find version.properties!")
+    }
+}
+
+def currentVersionCode = getVersionCode()
+def versionShort = getVersionShort()
+
+android {
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    compileSdkVersion 29
+    defaultConfig {
+        applicationId "com.trialosapp"
+        minSdkVersion 23
+        targetSdkVersion 34
+        versionCode currentVersionCode
+        versionName versionShort
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        renderscriptTargetApi 21
+        renderscriptSupportModeEnabled true
+        multiDexEnabled true
+
+        ndk {
+            abiFilters "arm64-v8a","armeabi-v7a"
+        }
+    }
+    splits {
+        abi {
+            reset()
+            enable false
+            universalApk false  // If true, also generate a universal APK
+            include "armeabi", "armeabi-v7a","x86","arm64-v8a"
+        }
+    }
+    signingConfigs {
+        release {
+            storeFile file(MYAPP_RELEASE_STORE_FILE)
+            storePassword MYAPP_RELEASE_STORE_PASSWORD
+            keyAlias MYAPP_RELEASE_KEY_ALIAS
+            keyPassword MYAPP_RELEASE_KEY_PASSWORD
+        }
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    buildTypes {
+        all {
+            matchingFallbacks = ['']
+        }
+        debug {
+            signingConfig signingConfigs.release
+        }
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.release
+            proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+
+    productFlavors {
+        check {
+            flavorDimensions "default"
+            applicationId "com.holimobile.test"
+            resValue "string", "app_name", "巴斯夫调漆宝"
+            buildConfigField "String", "env", '"test"'
+            buildConfigField "String", "WX_APP_ID", '"wxa99544556feae7f0"'
+            manifestPlaceholders = [
+                    LINKHOST:"test"
+            ]
+        }
+
+        uat {
+            flavorDimensions "default"
+            applicationId "com.holimobile"
+            resValue "string", "app_name", "巴斯夫调漆宝"
+            buildConfigField "String", "env", '"test"'
+            buildConfigField "String", "WX_APP_ID", '"wxa99544556feae7f0"'
+            manifestPlaceholders = [
+                    LINKHOST:"test"
+            ]
+        }
+
+        product {
+            flavorDimensions "default"
+            applicationId "com.holimobile"
+            resValue "string", "app_name", "巴斯夫调漆宝"
+            buildConfigField "String", "env", '"product"'
+            buildConfigField "String", "WX_APP_ID", '"wxa99544556feae7f0"'
+            manifestPlaceholders = [
+                    LINKHOST:"prod"
+            ]
+        }
+    }
+
+    dependencies {
+        implementation fileTree(dir: 'libs', include: ['*.jar','*.aar'])
+        implementation 'androidx.appcompat:appcompat:1.2.0-alpha02'
+
+        implementation 'com.jakewharton:butterknife:8.0.1'
+        implementation 'io.reactivex:rxandroid:1.1.0'
+        implementation 'io.reactivex.rxjava2:rxjava:2.0.1'
+        implementation 'com.jakewharton.rxbinding2:rxbinding:2.0.0'
+
+        implementation 'androidx.multidex:multidex:2.0.0'
+        implementation 'com.facebook.fresco:imagepipeline-okhttp:0.9.0'
+        implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+        implementation 'androidx.recyclerview:recyclerview:1.0.0'
+        implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+        implementation 'com.google.dagger:dagger:2.2'
+        annotationProcessor 'com.google.dagger:dagger-compiler:2.2'
+        annotationProcessor 'com.jakewharton:butterknife-compiler:8.0.1'
+        implementation 'com.github.tbruyelle:rxpermissions:0.10.2'
+        implementation 'com.huxq17.xrefreshview:xrefreshview:3.6.9'
+        implementation 'org.jsoup:jsoup:1.9.2'
+        //implementation 'jp.wasabeef:blurry:3.0.0'
+        //implementation 'com.google.android:flexbox:2.0.1'
+        implementation 'com.github.hackware1993:MagicIndicator:1.6.0'
+        //implementation 'com.mani:ThinDownloadManager:1.4.0'
+        //implementation 'me.relex:photodraweeview:1.1.3'
+        implementation 'com.github.bumptech.glide:glide:4.11.0'
+        //implementation 'com.github.wendux:DSBridge-Android:3.0-SNAPSHOT'
+        //implementation "androidx.viewpager2:viewpager2:1.0.0"
+        //implementation project(":dragflowlayout")
+
+        configurations {
+            all*.exclude group: 'com.android.support', module: 'support-v13'
+        }
+
+        implementation project(':pickerview')
+        //implementation project(':materialFilePicker')
+        implementation project(':wheelview')
+        implementation project(':picture_library')
+        implementation project(':camera')
+        implementation project(':ucrop')
+        implementation project(':zxingqr')
+        implementation 'com.aliyun.ams:alicloud-android-push:3.7.7'
+        api 'com.tencent.mm.opensdk:wechat-sdk-android:+'
+
+    }
+    android.applicationVariants.all { variant ->
+        variant.outputs.all {
+            // 名称_android_版本号.apk
+            def time = new java.text.SimpleDateFormat("yyyyMMdd").format(new Date())
+            variant.outputs.all {
+                def fileName = "holimobile"   + "_" + variant.productFlavors[0].name + "_" + defaultConfig.versionName + "_" + time + ".apk"
+                outputFileName = fileName
+            }
+        }
+    }
+
+
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation 'com.google.android.material:material:1.3.0'
+    implementation 'androidx.navigation:navigation-fragment:2.2.2'
+    implementation 'androidx.navigation:navigation-ui:2.2.2'
+    implementation 'com.shouzhong:Scanner:1.1.3'
+    implementation 'com.shouzhong:ScannerZBarLib:1.0.0'
+    implementation project(path: ':tmslibrary')
+}

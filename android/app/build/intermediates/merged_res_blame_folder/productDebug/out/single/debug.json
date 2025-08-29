@@ -1,0 +1,1646 @@
+[
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_home_on.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/home_on.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_triangle.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_triangle.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_logo.jpg.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/logo.jpg"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_feed_back_on.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_feed_back_on.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_carousel.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_carousel.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_pay_approve.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_pay_approve.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_user_card_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_user_card_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_application_container.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_application_container.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_bac_user_info.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/bac_user_info.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_dialog_both_common.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_dialog_both_common.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_login_check_box_on.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/login_check_box_on.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_qa_more.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_qa_more.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_comp_place_holder.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/comp_place_holder.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-hdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_dropsite.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_dropsite.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_gradient_1.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_gradient_1.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_test_web_view.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_test_web_view.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_alicloud_notification_smallicon.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/alicloud_notification_smallicon.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_upush_notification.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/upush_notification.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_new.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_new.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_member_ship.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_member_ship.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_class_off.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/class_off.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_search_course.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_search_course.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_ranking.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_ranking.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_center_arrow_right.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_center_arrow_right.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_components_searchbar_filteractive.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_components_searchbar_filteractive.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_components_searchbar_search.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_components_searchbar_search.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_recommend_item.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_recommend_item.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_class_label.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_class_label.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_item_hot_teacher.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/item_hot_teacher.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_item_type.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/item_type.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_home_card_common_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_home_card_common_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_avatar_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_avatar_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_dialog_finger_confirm_ops.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_dialog_finger_confirm_ops.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_gradient_open_class.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_gradient_open_class.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_zan.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_zan.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_ic_friends.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-mdpi/ic_friends.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_train_home.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_train_home.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_message_zm.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_message_zm.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_message_off.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_message_off.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_toast_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_toast_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-xhdpi_ic_friends.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-xhdpi/ic_friends.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_alert_dialog_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_alert_dialog_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_search_fade_out.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/search_fade_out.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_dialog_zm.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_dialog_zm.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_center_recent.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_center_recent.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_verify_code.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_verify_code.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_fouce_bac_2.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_fouce_bac_2.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_lang_shift.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_lang_shift.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_components_signalchose_normal.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_components_signalchose_normal.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_dialog_ops.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_dialog_ops.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-v21_ripple_bg_no_radius.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-v21/ripple_bg_no_radius.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_pal_bankcard.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_pal_bankcard.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_selector_class_label.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/selector_class_label.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_setting.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_pop_in_right.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/pop_in_right.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_translation_copy.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_translation_copy.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_user_view.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_user_view.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_item_recommend.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/item_recommend.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_signsuccess.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_signsuccess.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_recruit_container.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_recruit_container.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_tenant_list.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_tenant_list.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_ic_wx.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-mdpi/ic_wx.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_home_app.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_home_app.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_share_copy.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_share_copy.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-xhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-anydpi-v24_ic_friends.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-anydpi-v24/ic_friends.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_addpayee.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_addpayee.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-hdpi_ic_friends.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-hdpi/ic_friends.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_image_save.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_image_save.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_home_scan.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_home_scan.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_selector_dialog_right_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/selector_dialog_right_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_password_bar.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_password_bar.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_default_avatar.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/default_avatar.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_common_search_header.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_common_search_header.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_follow.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_follow.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_demo.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_demo.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_thumb_up.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_thumb_up.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_utils_umtool_images_wxfind.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_utils_umtool_images_wxfind.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_file_loading.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_file_loading.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_qa_bubble.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_qa_bubble.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_selector_dialog_both_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/selector_dialog_both_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_train.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_train.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_dialog_privacy.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_dialog_privacy.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_utils_umtool_images_qq.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_utils_umtool_images_qq.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_tenant_alert.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_tenant_alert.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_cell_bac_no_radius.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_cell_bac_no_radius.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_my_order.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_my_order.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_train_alert.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_train_alert.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_verify_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_verify_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_class_left_off_top.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_class_left_off_top.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_gradient_member_ship.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_gradient_member_ship.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_home_off.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/home_off.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_selector_preference.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/selector_preference.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_selector_eye.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/selector_eye.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_login_web_view.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_login_web_view.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_feed_back_off.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_feed_back_off.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_live_float.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_live_float.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_closetip.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_closetip.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_progress_bar.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_subject_zm.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_subject_zm.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_webview_error.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_webview_error.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_xrefreshview_footer.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/xrefreshview_footer.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_bar_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_bar_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_upush_bar_image_notification.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/upush_bar_image_notification.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_reply.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_reply.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_dialog_audio_recognize.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/dialog_audio_recognize.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_custombackicon.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_custombackicon.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_language.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_language.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_selector_login_button.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/selector_login_button.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_fouce_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_fouce_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_ranking_out_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_ranking_out_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_message.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_message.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_utils_umtool_images_wechat.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_utils_umtool_images_wechat.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_privacy_policy.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_privacy_policy.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_restart.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_restart.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_login.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_agree_on.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_agree_on.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_choseflag.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_choseflag.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_hot.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_hot.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_dialog_both_pressed.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_dialog_both_pressed.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_pay_faild.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_pay_faild.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_pay_reject.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_pay_reject.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_live.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_live.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_header_taker_popin.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/header_taker_popin.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_train_status.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_train_status.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_my_voucher.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_my_voucher.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_arrow_right.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_arrow_right.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_bac_zm.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/bac_zm.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_watching.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_watching.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_scan_clear.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_scan_clear.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_zoom_exit.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/zoom_exit.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_bac_white.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_bac_white.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_copy_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_copy_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_finger.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_finger.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_class_left_pinner.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_class_left_pinner.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_back.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/back.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_camera.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_camera.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_project.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_project.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_selector_dialog_left_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/selector_dialog_left_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_dialog_right_pressed.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_dialog_right_pressed.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_asker_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_asker_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_button.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_button.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_rank_more.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_rank_more.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_translation_bottom.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_translation_bottom.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_dialog_get_tickets.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_dialog_get_tickets.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_select_check.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_select_check.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_payment_normal.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_payment_normal.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_open_class_bar.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_open_class_bar.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_translation_button_bac_off.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_translation_button_bac_off.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_common_search_bar.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_common_search_bar.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_copy_white.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_copy_white.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_siteicon.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_siteicon.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_course.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_course.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_zm_input_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_zm_input_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_login_del.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_login_del.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_eye_on.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_eye_on.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_share.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_share.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_system_message_red_point.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_system_message_red_point.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_bac_hot_item.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/bac_hot_item.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_red_point_text.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_red_point_text.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_agree_enable.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_agree_enable.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_dialog_common_loading.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/dialog_common_loading.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_bac_course_default.jpg.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/bac_course_default.jpg"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_preferential_item_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_preferential_item_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_center_tabbar.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_center_tabbar.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_account_list.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_account_list.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_bind_edit.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_bind_edit.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_utils_umtool_images_copyurl.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_utils_umtool_images_copyurl.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_bac_share_no_login.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/bac_share_no_login.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_utils_umtool_images_dingding.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_utils_umtool_images_dingding.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_selector_button.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/selector_button.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_applybtnimage.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_applybtnimage.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_class_left_off_none.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_class_left_off_none.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_gradient_3.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_gradient_3.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_message_card_container.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_message_card_container.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_train_header_right.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_train_header_right.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_dialog_right_common.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_dialog_right_common.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_image_preview.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_image_preview.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_copy.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_copy.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_search.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_search.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_password_edit_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_password_edit_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_pal_mobile.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_pal_mobile.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_visit.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_visit.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_delreport.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_delreport.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_browse_history.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_browse_history.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_qa_course_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_qa_course_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_my_certificate.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_my_certificate.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_button_disable.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_button_disable.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_components_searchbar_remove.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_components_searchbar_remove.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_map_list.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_map_list.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_app.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_app.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_holi_privacy.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_holi_privacy.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_center_tabbar_item.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_center_tabbar_item.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_class_left_on.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_class_left_on.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_corner.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_corner.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_live_recorder.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_live_recorder.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_signfaild.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_signfaild.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_progressbar_bg.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/progressbar_bg.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_system_message.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_system_message.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_home_add.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_home_add.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_my_invoice.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_my_invoice.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_code_bar_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_code_bar_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_open_class_type_all.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_open_class_type_all.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_train_step_bar.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/train_step_bar.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_gradient_2.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_gradient_2.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_class_on.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/class_on.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_account.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_account.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/xml_filepaths.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/xml/filepaths.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_user_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_user_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_header_taker_popout.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/header_taker_popout.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-xxhdpi_ic_wx.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-xxhdpi/ic_wx.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_class_left_off_both.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_class_left_off_both.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_introduce_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_introduce_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_type_item.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_type_item.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_center_collection.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_center_collection.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_common_loading.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_common_loading.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_browser_history.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_browser_history.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_sesrch_bar_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_sesrch_bar_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_dialog_button_left.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_dialog_button_left.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_system_message.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_system_message.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_xrefreshview_hor_footer.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/xrefreshview_hor_footer.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_payee_normal.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_payee_normal.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_exit.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_exit.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_selector_check.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/selector_check.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_bf_refresh_header.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/bf_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_pop_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_pop_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_class.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_class.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_top_teacher.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_top_teacher.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_components_signalchose_chosed.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_components_signalchose_chosed.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_app_delete.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_app_delete.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_publish_taker_popout.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/publish_taker_popout.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_hamburg.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_hamburg.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_login_check_box_off.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/login_check_box_off.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_application.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_application.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_type_sort.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_type_sort.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-anydpi-v24_ic_wx.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-anydpi-v24/ic_wx.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_login_view.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_login_view.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_empty_news_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_empty_news_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_scan.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_scan.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_setting_menu.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_setting_menu.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_copy.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_copy.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_search_text_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_search_text_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_top_course.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_top_course.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_image_gallery.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_image_gallery.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_qr_code.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_qr_code.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_selector_login_check_box.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/selector_login_check_box.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_arrowup.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_arrowup.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_member_ship_view.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_member_ship_view.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_blue_more.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_blue_more.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_fragment_mine.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/fragment_mine.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_setting.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_setting.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_arrow_down.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_arrow_down.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_x_black.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_x_black.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_fragment_train_list.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/fragment_train_list.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_publish_taker_popin.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/publish_taker_popin.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_fragment_message.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/fragment_message.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_bac_top_course.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/bac_top_course.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_preference.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_preference.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_key_value.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_key_value.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_utils_umtool_images_sms.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_utils_umtool_images_sms.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_message_right.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/message_right.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_translation.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_translation.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_class_label_on.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_class_label_on.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-xxxhdpi_ic_wx.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-xxxhdpi/ic_wx.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_cell_back_radius.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_cell_back_radius.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_downloadreport.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_downloadreport.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_pal_editpayee.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_pal_editpayee.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_task.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_task.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_back_wihte.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/back_wihte.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_like_container.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_like_container.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_pop_voice.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/pop_voice.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_open_class_my_train.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_open_class_my_train.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_agree_off.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_agree_off.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_class_cover_label.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_class_cover_label.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_dialog_left_pressed.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_dialog_left_pressed.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_approve.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_approve.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_qa_more.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_qa_more.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_components_emptyview_empty.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_components_emptyview_empty.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ic_close_white_24dp.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-xxhdpi_ic_friends.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-xxhdpi/ic_friends.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_share_list.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_share_list.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-ldpi_ic_wx.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-ldpi/ic_wx.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_center_message.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_center_message.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_pal_exception.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_pal_exception.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_loading_popout.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/loading_popout.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-xxxhdpi_ic_friends.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-xxxhdpi/ic_friends.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_empty.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_empty.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_open_class_bar_item.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_open_class_bar_item.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_log_out.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_log_out.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_task.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_task.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_white_back.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_white_back.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_delete.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_delete.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-hdpi_ic_wx.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-hdpi/ic_wx.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_headselect.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_headselect.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_payee_down.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_payee_down.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_login_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_login_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_open_class_type_3.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_open_class_type_3.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_pop_out_right.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/pop_out_right.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_agree_disable.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_agree_disable.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/raw_app.json.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/raw/app.json"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_fragment_application.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/fragment_application.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_projecticon.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_projecticon.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_trialpal_screens_selectproject_choseprojectarrow.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_trialpal_screens_selectproject_choseprojectarrow.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_gray_more.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_gray_more.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_pal_search.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_pal_search.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_share.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_share.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-xhdpi_ic_wx.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-xhdpi/ic_wx.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_cell_category_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_cell_category_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_translation_input_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_translation_input_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_pal_idcard.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_pal_idcard.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-ldpi_ic_friends.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/build/generated/res/pngs/product/debug/drawable-ldpi/ic_friends.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_qa_share.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_qa_share.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_toast.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_toast.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_loading_popin.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/loading_popin.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_unagree.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_unagree.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_pal_share.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_pal_share.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_open_class_type_1.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_open_class_type_1.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_class_label_off.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_class_label_off.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_message_header.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_message_header.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_dialog_checkbox.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_dialog_checkbox.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_hot_bar.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_hot_bar.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-xhdpi_ico_congratulations.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-xhdpi/ico_congratulations.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_dialog_left_common.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_dialog_left_common.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_choseicon.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_choseicon.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_open_class_free_live.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_open_class_free_live.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_open_class_type_add.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_open_class_type_add.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_zm.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_zm.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_setting_arrow.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_setting_arrow.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_debug.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_debug.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_teacher.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_teacher.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_user_header_contianer.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_user_header_contianer.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_open_class_member.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_open_class_member.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_user_info_edit_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_user_info_edit_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_feed_content_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_feed_content_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_item_preferential_full.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/item_preferential_full.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_webview_button_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_webview_button_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_tenant.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_tenant.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-v21_ripple_bg_radius.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-v21/ripple_bg_radius.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_open_class_type_2.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_open_class_type_2.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_item_preferential_half.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/item_preferential_half.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_feed_back.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_feed_back.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_fragment_t_m_web_view.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/fragment_t_m_web_view.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_bg_progress_bar.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/bg_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_qa_list_view.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_qa_list_view.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_download.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_download.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_search_fade_in.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/search_fade_in.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_zoom_enter.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/zoom_enter.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_success.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_success.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_preferential_container.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_preferential_container.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_selector_agree.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/selector_agree.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_select_focus.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_select_focus.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_pay_ing.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_pay_ing.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_preference_select_off.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_preference_select_off.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_recommend.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_recommend.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_pop_in.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/pop_in.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_qa_card_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_qa_card_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_class_left.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_class_left.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_my_train.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_my_train.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_my_shopping_car.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_my_shopping_car.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_arrowdown.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_arrowdown.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_red_point_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_red_point_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_dialog.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_teacher_class.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_teacher_class.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_preference_select_on.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_preference_select_on.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_dialog_use_tickets.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_dialog_use_tickets.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_selector_translation_botton.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/selector_translation_botton.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_message_on.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_message_on.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_open_class_search.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_open_class_search.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_mine_off.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/mine_off.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_alicloud_notification_largeicon.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/alicloud_notification_largeicon.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_icon_small.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/icon_small.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_fragment_open_class.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/fragment_open_class.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/anim_pop_out.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/anim/pop_out.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_dialog_button_right.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_dialog_button_right.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_right_exit.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_right_exit.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_main.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_entry_card.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_entry_card.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_login_disable_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_login_disable_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_mine_on.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/mine_on.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_preferential_bac.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_preferential_bac.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_pay_success.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_pay_success.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_alert_preference_list.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/alert_preference_list.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_right_arrow.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_right_arrow.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_location.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_location.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_class_left_off_bottom.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_class_left_off_bottom.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_app_add.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_app_add.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_cell_image_preview.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/cell_image_preview.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_medical_type.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_medical_type.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_components_searchbar_filter.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_components_searchbar_filter.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_trans_clear.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_trans_clear.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_avatar.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_avatar.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_common_toolbar.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/common_toolbar.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_ico_eye_off.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/ico_eye_off.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable_shape_translation_button_bac_on.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable/shape_translation_button_bac_on.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_layout_carousel_img.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/layout_carousel_img.xml"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/drawable-mdpi_source_images_payment_down.png.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/drawable-mdpi/source_images_payment_down.png"
+    },
+    {
+        "merged": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/res/merged/product/debug/layout_activity_web_view.xml.flat",
+        "source": "/Users/cty/projects/holimobile/androiddemo/android/app/src/main/res/layout/activity_web_view.xml"
+    }
+]

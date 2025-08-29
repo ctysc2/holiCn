@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners
+        android:radius="4dp"
+        />
+    <stroke
+        android:width="1dp"
+        android:color="@color/separate_line"
+        />
+    <!-- 设置矩形内的颜色,此处为灰色 -->
+    <solid android:color="@color/white"/>
+</shape>

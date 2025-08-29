@@ -1,0 +1,40 @@
+{
+  "urlList": [
+    {
+      "name": "verifyCode",
+      "app": "holi",
+      "path": "/user/verifyCode",
+      "method": "POST",
+      "isCache": false
+    },
+    {
+      "name": "login",
+      "app": "holi",
+      "path": "/user/login",
+      "method": "POST",
+      "isCache": false
+    },
+    {
+      "name": "logout",
+      "app": "holi",
+      "path": "/user/logout",
+      "method": "POST",
+      "isCache": false
+    },
+    {
+      "name": "productCheckVersion",
+      "app": "holi",
+      "path": "/version/checkHandlecar",
+      "method": "POST",
+      "isCache": false
+    },
+    {
+      "name": "saveScan",
+      "app": "holi",
+      "path": "/api/operation/save",
+      "method": "POST",
+      "isCache": false
+    },
+
+  ]
+}

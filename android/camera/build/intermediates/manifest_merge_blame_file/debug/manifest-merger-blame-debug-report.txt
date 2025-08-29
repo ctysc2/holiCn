@@ -1,0 +1,38 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mobilemd.cameralibrary"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:4:5-14:19
+12        android:allowBackup="true"
+12-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:4:18-44
+13        android:label="@string/app_name"
+13-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:4:45-77
+14        android:supportsRtl="true" >
+14-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:5:9-35
+15        <activity android:name="com.mobilemd.cameralibrary.CameraActivity" />
+15-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:7:9-51
+15-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:7:19-49
+16        <activity
+16-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:9:9-10:76
+17            android:name="com.mobilemd.cameralibrary.VideoActivity"
+17-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:9:19-48
+18            android:configChanges="orientation|screenSize|keyboardHidden" />
+18-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:10:13-74
+19        <activity
+19-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:12:9-13:51
+20            android:name="com.mobilemd.cameralibrary.SoundActivity"
+20-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:12:19-48
+21            android:screenOrientation="portrait" />
+21-->/Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:13:13-49
+22    </application>
+23
+24</manifest>

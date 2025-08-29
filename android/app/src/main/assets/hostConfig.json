@@ -1,0 +1,19 @@
+{
+  "domainList": [
+    {
+      "name": "holi",
+      "test": "https://holi-qa-ma.basf.com",
+      "product": "https://holimobile-h5.basf.com.cn"
+    },
+    {
+      "name": "h5",
+      "test": "https://holi-qa-ma.basf.com",
+      "product": "https://holimobile-h5.basf.com.cn"
+    },
+    {
+      "name": "codeType1",
+      "test": "http://basf-painting-qa.winsafe.cn",
+      "product": "https://bcs.winsafe.cn"
+    }
+  ]
+}

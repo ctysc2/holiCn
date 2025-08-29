@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.luck.picture.lib">
+
+    <uses-sdk tools:overrideLibrary="androidx.camera:camera-camera2:1.0.0-alpha08,
+    androidx.camera.camera2,androidx.camera.lifecycle,androidx.camera.core" />
+
+    <application>
+<!--        <provider-->
+<!--            android:name="com.luck.picture.lib.PictureFileProvider"-->
+<!--            android:authorities="${applicationId}.provider"-->
+<!--            android:exported="false"-->
+<!--            android:grantUriPermissions="true">-->
+<!--            <meta-data-->
+<!--                android:name="android.support.FILE_PROVIDER_PATHS"-->
+<!--                android:resource="@xml/file_paths" />-->
+<!--        </provider>-->
+
+        <activity
+            android:name=".PictureSelectorActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".PictureSelectorPreviewWeChatStyleActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".PictureVideoPlayActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".PicturePreviewActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="com.yalantis2.ucrop.UCropActivity"
+            android:theme="@style/Base.Theme.NoActionBar"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name="com.yalantis2.ucrop.PictureMultiCuttingActivity"
+            android:theme="@style/Base.Theme.NoActionBar"
+            android:screenOrientation="portrait"
+            />
+    </application>
+</manifest>

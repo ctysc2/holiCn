@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:2:5-42
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:3:5-80
+	android:name
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:3:22-77
+application
+ADDED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:5:5-10:19
+activity#com.nbsp.materialfilepicker.ui.FilePickerActivity
+ADDED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:7:9-9:20
+	android:theme
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:8:13-49
+	android:name
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml:7:19-56
+uses-sdk
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/materialFilePicker/src/main/AndroidManifest.xml

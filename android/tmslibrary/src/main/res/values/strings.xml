@@ -1,0 +1,28 @@
+<resources>
+    <string name="copy_succeed">复制成功~</string>
+    <string name="moring" translatable="false">上午</string>
+    <string name="afternoom" translatable="false">下午</string>
+    <string name="night" translatable="false">晚上</string>
+    <string name="right_now" translatable="false">刚刚</string>
+    <string name="min_before" translatable="false">%d分钟前</string>
+    <string name="hour_before" translatable="false">%d小时前</string>
+    <string name="day_before" translatable="false">%d天前</string>
+    <string name="hint_permission_camera" translatable="false">巴斯夫调漆宝想访问您的相机设备权限用于拍照上传图片和扫码功能</string>
+    <string name="hint_permission_read_write" translatable="false">巴斯夫调漆宝需要获取您设备的存储权限，用于访问相册，应用更新功能</string>
+    <string name="hint_permission_contact" translatable="false">巴斯夫调漆宝想访问您的通讯录，用于您通过通讯录查找好友</string>
+    <string name="hint_permission_audio" translatable="false">巴斯夫调漆宝想访问您的麦克风权限，用于发送语音消息</string>
+    <string name="hint_permission_location" translatable="false">巴斯夫调漆宝想访问您的位置信息，用于记录用户在进行商品扫码防伪查询时的地理位置信息</string>
+    <string name="go_to_allow" translatable="false">去允许</string>
+    <string name="hint" translatable="false">提示</string>
+    <string name="cancel" translatable="false">取消</string>
+    <string name="confirm" translatable="false">确定</string>
+    <string name="invalid_mobile" translatable="false">电话号码为空</string>
+    <string name="network_err">网络异常,请重试~</string>
+    <string name="request_failed">请求失败</string>
+    <string name="privacy_title" translatable="false">欢迎使用XXX</string>
+    <string name="privacy_index" translatable="false">《隐私权政策》</string>
+    <string name="privacy_index2" translatable="false">在使用XXX的各项服务前，请您务必仔细阅读并透彻理解本《隐私权政策》，在确认充分理解并同意后方使用相关产品和服务。一旦您开始使用XXX，将被视为对本声明和政策内容的接受和认可。</string>
+    <string name="privacy_content" translatable="false">\t \t您的信任对我们非常重要，我们深知用户信息安全的重要性，我们将按照法律法规要求，采取安全保护措施，保护您的用户信息安全可控。鉴此，太美医疗科技制定本《隐私权政策》并提醒您：在使用XXX的各项服务前，请您务必仔细阅读并透彻理解本《隐私权政策》，在确认充分理解并同意后方使用相关产品和服务。一旦您开始使用XXX，将被视为对本声明和政策内容的接受和认可。</string>
+    <string name="privacy_content2" translatable="false">\t \t为了确保操作环境安全和识别账号异常状态，XXX需向您申请必要的手机权限。当您开启权限后，APP才会收集必要的信息。</string>
+    <string name="privacy_content3" translatable="false">\t \t在阅读完本政策后，如您对本政策或与本政策相关的事宜有任何问题，您可通过本政策“如何联系我们”章节所列的反馈渠道联系我们，我们会尽快为您作出解答。</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.shouzhong.scanner.ScannerView
+        android:id="@+id/sv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"/>
+    <ImageView
+        android:id="@+id/close_btn"
+        android:layout_width="28dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="45dp"
+        android:src="@drawable/ico_bac_white"
+        android:layout_height="28dp"/>
+    <TextView
+        android:id="@+id/tv_feedback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_marginTop="45dp"
+        android:layout_alignParentRight="true"
+        android:text="问题反馈"
+        android:layout_marginRight="25dp"
+        />
+    <TextView
+        android:id="@+id/tv_hint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="@color/white"
+        android:text=""
+        android:shadowColor="@color/black_50"
+        android:shadowDx="0"
+        android:shadowDy="2"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="120dp"
+        android:shadowRadius="3"
+        android:layout_centerHorizontal="true"
+        />
+
+</RelativeLayout>

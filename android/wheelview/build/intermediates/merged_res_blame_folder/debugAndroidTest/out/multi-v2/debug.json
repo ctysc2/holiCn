@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/cty/projects/holimobile/androiddemo/android/wheelview/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/cty/projects/holimobile/androiddemo/android/wheelview/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,118,181,236,293,350,408,480,553,622,673,735,791,848,912,959",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,29",
+                        "endColumns": "62,62,54,56,56,57,71,72,68,50,61,55,56,63,46,24",
+                        "endOffsets": "113,176,231,288,345,403,475,548,617,668,730,786,843,907,954,1589"
+                    }
+                }
+            ]
+        }
+    ]
+}

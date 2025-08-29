@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:1:1-15:12
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:1:1-15:12
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:4:5-14:19
+	android:supportsRtl
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:5:9-35
+	android:label
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:4:45-77
+	android:allowBackup
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:4:18-44
+activity#com.mobilemd.cameralibrary.CameraActivity
+ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:7:9-51
+	android:name
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:7:19-49
+activity#com.mobilemd.cameralibrary.VideoActivity
+ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:9:9-10:76
+	android:configChanges
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:10:13-74
+	android:name
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:9:19-48
+activity#com.mobilemd.cameralibrary.SoundActivity
+ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:12:9-13:51
+	android:screenOrientation
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:13:13-49
+	android:name
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml:12:19-48
+uses-sdk
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+		ADDED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml
+		INJECTED from /Users/cty/projects/holimobile/androiddemo/android/camera/src/main/AndroidManifest.xml

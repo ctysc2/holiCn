@@ -1,0 +1,5 @@
+include ':tmslibrary'
+include ':app',':dragflowlayout',':pickerview',':wheelview',':materialFilePicker',':camera',':picture_library',':ucrop',':zxingqr'
+
+rootProject.name = "holiApp"
+

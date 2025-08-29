@@ -1,0 +1,39 @@
+com/nbsp/materialfilepicker/filter/FileFilter.java
+ com.nbsp.materialfilepicker.filter.FileFilter
+com/nbsp/materialfilepicker/ui/DirectoryAdapter.java
+ com.nbsp.materialfilepicker.ui.DirectoryAdapter
+ com.nbsp.materialfilepicker.ui.DirectoryAdapter$DirectoryViewHolder
+com/nbsp/materialfilepicker/filter/PatternFilter.java
+ com.nbsp.materialfilepicker.filter.PatternFilter
+com/nbsp/materialfilepicker/utils/FileUtils.java
+ com.nbsp.materialfilepicker.utils.FileUtils
+com/nbsp/materialfilepicker/ui/ThrottleClickListener.java
+ com.nbsp.materialfilepicker.ui.ThrottleClickListener
+com/nbsp/materialfilepicker/ui/DirectoryFragment.java
+ com.nbsp.materialfilepicker.ui.DirectoryFragment
+ com.nbsp.materialfilepicker.ui.DirectoryFragment$1
+ com.nbsp.materialfilepicker.ui.DirectoryFragment$FileClickListener
+com/nbsp/materialfilepicker/utils/DimenUtil.java
+ com.nbsp.materialfilepicker.utils.DimenUtil
+com/nbsp/materialfilepicker/BuildConfig.java
+ com.nbsp.materialfilepicker.BuildConfig
+com/nbsp/materialfilepicker/filter/HiddenFilter.java
+ com.nbsp.materialfilepicker.filter.HiddenFilter
+com/nbsp/materialfilepicker/utils/FileComparator.java
+ com.nbsp.materialfilepicker.utils.FileComparator
+com/nbsp/materialfilepicker/filter/CompositeFilter.java
+ com.nbsp.materialfilepicker.filter.CompositeFilter
+com/nbsp/materialfilepicker/MaterialFilePicker.java
+ com.nbsp.materialfilepicker.MaterialFilePicker
+com/nbsp/materialfilepicker/ui/FilePickerActivity.java
+ com.nbsp.materialfilepicker.ui.FilePickerActivity
+ com.nbsp.materialfilepicker.ui.FilePickerActivity$1
+com/nbsp/materialfilepicker/utils/FileTypeUtils.java
+ com.nbsp.materialfilepicker.utils.FileTypeUtils
+ com.nbsp.materialfilepicker.utils.FileTypeUtils$FileType
+com/nbsp/materialfilepicker/ui/OnItemClickListener.java
+ com.nbsp.materialfilepicker.ui.OnItemClickListener
+ com.nbsp.materialfilepicker.ui.OnItemClickListener$ThrottleClickListener
+com/nbsp/materialfilepicker/widget/EmptyRecyclerView.java
+ com.nbsp.materialfilepicker.widget.EmptyRecyclerView
+ com.nbsp.materialfilepicker.widget.EmptyRecyclerView$1

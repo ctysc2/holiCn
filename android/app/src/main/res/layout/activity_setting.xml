@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+    <include layout="@layout/common_toolbar"
+        />
+    <LinearLayout
+        android:id="@+id/ll_msg_setting"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@color/white"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_height="50dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/msg_setting"
+            android:textColor="@color/contentTitle"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/contentColorDark"
+            android:textSize="14sp"
+            android:text="@string/msg_manager"
+            android:layout_marginRight="10dp"
+            android:layout_height="match_parent" />
+        <ImageView
+            android:layout_width="8dp"
+            android:layout_height="22dp"
+            android:src="@drawable/ico_next"
+            />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/white" >
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="20dp"
+            android:background="@color/separate_line"
+            />
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/ll_clearCache"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@color/white"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_height="50dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/clearCache"
+            android:textColor="@color/contentTitle"
+            android:textSize="16sp" />
+        <TextView
+            android:id="@+id/tv_cache"
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/contentColorDark"
+            android:textSize="14sp"
+            android:layout_marginRight="10dp"
+            android:layout_height="match_parent" />
+        <ImageView
+            android:layout_width="8dp"
+            android:layout_height="22dp"
+            android:src="@drawable/ico_next"
+            />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/white" >
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="20dp"
+            android:background="@color/separate_line"
+            />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@color/white"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_height="50dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="@string/current_version"
+            android:textColor="@color/contentTitle"
+            android:textSize="16sp" />
+        <TextView
+            android:id="@+id/tv_version"
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/contentColorDark"
+            android:textSize="14sp"
+            android:layout_marginRight="10dp"
+            android:layout_height="match_parent" />
+        <ImageView
+            android:layout_width="8dp"
+            android:layout_height="22dp"
+            android:src="@drawable/ico_next"
+            android:visibility="invisible"
+            />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/white" >
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="20dp"
+            android:background="@color/separate_line"
+            />
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/ll_bei_an"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@color/white"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_height="50dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="备案号"
+            android:textColor="@color/contentTitle"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/contentColorDark"
+            android:textSize="14sp"
+            android:text="沪ICP备14043054号-14A"
+            android:layout_marginRight="10dp"
+            android:layout_height="match_parent" />
+        <ImageView
+            android:layout_width="8dp"
+            android:layout_height="22dp"
+            android:src="@drawable/ico_next"
+            />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/white" >
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="20dp"
+            android:background="@color/separate_line"
+            />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_privacy"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@color/white"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_height="50dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="隐私政策"
+            android:textColor="@color/contentTitle"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/contentColorDark"
+            android:textSize="14sp"
+            android:layout_marginRight="10dp"
+            android:layout_height="match_parent" />
+        <ImageView
+            android:layout_width="8dp"
+            android:layout_height="22dp"
+            android:src="@drawable/ico_next"
+            />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/white" >
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="20dp"
+            android:background="@color/separate_line"
+            />
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/ll_service"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@color/white"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_height="50dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="服务协议"
+            android:textColor="@color/contentTitle"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/contentColorDark"
+            android:textSize="14sp"
+            android:layout_marginRight="10dp"
+            android:layout_height="match_parent" />
+        <ImageView
+            android:layout_width="8dp"
+            android:layout_height="22dp"
+            android:src="@drawable/ico_next"
+            />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        />
+    <TextView
+        android:id="@+id/tv_logout"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:textSize="18sp"
+        android:layout_marginBottom="60dp"
+        android:gravity="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="@string/logOut"
+        />
+
+</LinearLayout>

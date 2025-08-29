@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners
+        android:bottomRightRadius="12dp"
+        />
+    <!-- 设置矩形内的颜色,此处为灰色 -->
+    <solid android:color="@color/color_open_class_off"/>
+</shape>

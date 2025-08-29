@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/tv_preference"
+    android:gravity="center"
+    android:layout_width="wrap_content"
+    android:paddingLeft="40dp"
+    android:paddingRight="40dp"
+    android:textSize="16sp"
+    android:textColor="@color/black"
+    android:textStyle="bold"
+    android:background="@drawable/selector_preference"
+    android:text="CRA"
+    android:layout_marginLeft="20dp"
+    android:layout_marginBottom="20dp"
+    android:layout_height="64dp">
+
+</TextView>
+

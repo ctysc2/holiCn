@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.drawee.view.SimpleDraweeView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/iv_img"
+    android:layout_width="98dp"
+    android:layout_height="98dp"
+    app:roundedCornerRadius="16dp"
+    android:layout_marginBottom="6dp"
+    android:gravity="center">
+</com.facebook.drawee.view.SimpleDraweeView>

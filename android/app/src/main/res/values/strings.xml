@@ -1,0 +1,367 @@
+<resources>
+    <string name="dialog_hint" translatable="false">提示</string>
+    <string name="listening" translatable="false">倾听中...</string>
+    <string name="logOut" translatable="false">退出登录</string>
+    <string name="is_exit" translatable="false">是否退出登录?</string>
+    <string name="exit" translatable="false">退出</string>
+    <string name="no_exit" translatable="false">不退出</string>
+
+
+    <string name="forget_password" translatable="false">忘记密码</string>
+    <string name="qa" translatable="false">问答</string>
+    <string name="qa_detail" translatable="false">问答详情</string>
+    <string name="login" translatable="false">登录</string>
+    <string name="home" translatable="false">首页</string>
+    <string name="send_after_second" translatable="false">%dS后重发</string>
+    <string name="msg_manager" translatable="false">消息通知管理</string>
+    <string name="msg_setting" translatable="false">消息设置</string>
+    <string name="confirm_clear_cache" translatable="false">是否清除缓存？</string>
+    <string name="confirm_log_out" translatable="false">是否退出登录？</string>
+    <string name="clearCache" translatable="false">清除缓存</string>
+    <string name="clear_success" translatable="false">清除成功</string>
+    <string name="hint_input_4_code" translatable="false">请输入完整的4位验证码</string>
+    <string name="sms_code_error" translatable="false">验证码错误</string>
+    <string name="reget_sms_code" translatable="false">重新获取验证码</string>
+    <string name="sms_send_to" translatable="false">验证码已通过短信发送至%s</string>
+    <string name="sms_code" translatable="false">短信验证码</string>
+    <string name="account_not_exist" translatable="false">手机号不存在</string>
+    <string name="login_read" translatable="false">我已阅读并同意</string>
+    <string name="basf_ystk" translatable="false">《服务协议》和《隐私政策》</string>
+    <string name="hint_basf_ystk" translatable="false">请先阅读并同意《巴斯夫服务商支持管理平台服务协议》</string>
+    <string name="application" translatable="false">应用</string>
+    <string name="openClass" translatable="false">公开课</string>
+    <string name="mine" translatable="false">我的</string>
+    <string name="need_urgent" translatable="false">需要加急处理</string>
+    <string name="timeout_and_refresh" translatable="false">登录超时，请刷新页面</string>
+    <string name="auth_app" translatable="false">授权应用</string>
+    <string name="login_now" translatable="false">立即登录</string>
+    <string name="temporarily_none" translatable="false">暂无</string>
+    <string name="tools" translatable="false">实用工具</string>
+    <string name="platforms" translatable="false">平台应用</string>
+    <string name="to_do" translatable="false">待办事项</string>
+    <string name="approve_task" translatable="false">审批任务</string>
+    <string name="approve" translatable="false">审批</string>
+    <string name="to_train" translatable="false">待培训</string>
+    <string name="to_visit" translatable="false">待随访</string>
+    <string name="confirm_to_logout" translatable="false">您确定要退出登录吗?</string>
+    <string name="to_login_first" translatable="false">请先登录</string>
+    <string name="to_login" translatable="false">去登录</string>
+    <string name="to_relogin" translatable="false">重新登录</string>
+    <string name="please_choose" translatable="false">请选择</string>
+    <string name="moring" translatable="false">上午</string>
+    <string name="afternoom" translatable="false">下午</string>
+    <string name="night" translatable="false">晚上</string>
+    <string name="content_is_empty" translatable="false">暂无内容</string>
+    <string name="search_result_is_empty" translatable="false">当前搜索结果为空</string>
+    <string name="message_is_empty" translatable="false">暂无消息</string>
+    <string name="loading_more" translatable="false">正在加载更多...</string>
+    <string name="move_to_pc_to_resolve" translatable="false">暂时无法在移动端处理，请在PC端处理</string>
+    <string name="no_link" translatable="false">没有获取到详情链接，请在pc端查看该任务</string>
+    <string name="login_register" translatable="false">登录/注册</string>
+    <string name="login_to_see_more" translatable="false">登录查看更多相关信息</string>
+    <string name="setting" translatable="false">设置</string>
+    <string name="login_success" translatable="false">登录成功</string>
+    <string name="my_info" translatable="false">我的资料</string>
+    <string name="account_info" translatable="false">账号管理</string>
+    <string name="privacy" translatable="false">隐私权政策</string>
+    <string name="system_permission" translatable="false">系统权限</string>
+    <string name="about_us" translatable="false">关于我们</string>
+    <string name="current_version" translatable="false">当前版本</string>
+    <string name="collection" translatable="false">收藏</string>
+    <string name="message" translatable="false">消息</string>
+    <string name="recent" translatable="false">最近浏览</string>
+    <string name="my_train" translatable="false">我的培训</string>
+    <string name="owned_lessons" translatable="false">已拥有的培训课</string>
+    <string name="learn_coin" translatable="false">学习币</string>
+    <string name="my_shopping_car" translatable="false">购物车</string>
+    <string name="my_order" translatable="false">我的订单</string>
+    <string name="my_invoice" translatable="false">开发票</string>
+    <string name="my_voucher" translatable="false">抵用券</string>
+    <string name="my_certificate" translatable="false">我的证书</string>
+    <string name="to_be_pioneer" translatable="false">申请成为招募先锋</string>
+    <string name="pioneer" translatable="false">招募先锋</string>
+    <string name="feed_back" translatable="false">意见反馈</string>
+    <string name="subject_zm" translatable="false">受试者招募</string>
+    <string name="open_now" translatable="false">立即开通</string>
+    <string name="valid_to_date" translatable="false">有效期至%s</string>
+    <string name="choose_your_preference" translatable="false">请问您的身份是？</string>
+    <string name="please_choose_feedback_type" translatable="false">请选择您要反馈的问题类型</string>
+    <string name="info_safe_problem" translatable="false">信息安全投诉</string>
+    <string name="feed_back_hint" translatable="false">请描述您的问题，以便我们尽快为您处理(必填)</string>
+    <string name="input_contact_info" translatable="false">请输入联系信息</string>
+    <string name="input_optional" translatable="false">(选填)</string>
+    <string name="contact_user" translatable="false">联系人</string>
+    <string name="contact_phone" translatable="false">联系电话</string>
+    <string name="please_input" translatable="false">请输入</string>
+    <string name="hint_safe_transfer" translatable="false">联系人信息将为您加密传输，保护您的隐私</string>
+    <string name="submit_feedback" translatable="false">提交反馈</string>
+    <string name="please_input_problem_or_suggestion" translatable="false">请输入您的意见或问题描述</string>
+    <string name="submit_success" translatable="false">提交成功</string>
+    <string name="shift_account" translatable="false">切换账号</string>
+    <string name="password" translatable="false">密码</string>
+    <string name="modify_password" translatable="false">修改密码</string>
+    <string name="current_login_account" translatable="false">当前登录的账号</string>
+    <string name="old_password" translatable="false">原登录密码</string>
+    <string name="please_input_old_password" translatable="false">请输入原登录密码</string>
+    <string name="please_input_nick_name" translatable="false">请输入昵称</string>
+    <string name="new_password" translatable="false">新登录密码</string>
+    <string name="please_input_new_password" translatable="false">请输入新密码</string>
+    <string name="please_input_new_password_again" translatable="false">请再次输入新密码</string>
+    <string name="confirm_fix" translatable="false">确认修改</string>
+    <string name="password_no_adapt" translatable="false">两次新密码输入不一致</string>
+    <string name="modify_succeed" translatable="false">修改成功</string>
+    <string name="hot_line" translatable="false">产品支持热线: 400-699-1906</string>
+    <string name="hot_email" translatable="false">电子邮箱: bd@mobilemd.cn</string>
+    <string name="copy" translatable="false">复制</string>
+    <string name="copy_succeed" translatable="false">复制成功</string>
+    <string name="search_lesson_name" translatable="false">搜索课程名称</string>
+
+    <string name="open_class_train" translatable="false">公开课培训</string>
+    <string name="company_train" translatable="false">企业培训</string>
+    <string name="project_train" translatable="false">项目培训</string>
+    <string name="valid_date" translatable="false">有效期</string>
+    <string name="uncompleted" translatable="false">未完成的</string>
+    <string name="completed" translatable="false">已完成的</string>
+    <string name="permission_hint" translatable="false">为向您提供更好的用户体验，管陪易在特定场景可能需要向您申请以下手机系统权限</string>
+
+    <string name="permission_contact_title" translatable="false">允许管陪易访问通讯录权限</string>
+    <string name="permission_contact_desc" translatable="false">方便您邀请您的联系人加入管陪易</string>
+
+    <string name="permission_galley_title" translatable="false">允许管陪易访问相册权限</string>
+    <string name="permission_galley_desc" translatable="false">帮助您实现图片和文件的保存和读取</string>
+
+
+    <string name="permission_camera_title" translatable="false">允许管陪易访问相机权限</string>
+    <string name="permission_camera_desc" translatable="false">进行上传图片等</string>
+    <string name="permission_device_title" translatable="false">允许管陪易访问设备信息</string>
+    <string name="permission_device_desc" translatable="false">进行推送和手机类型判断等</string>
+    <string name="permission_audio_title" translatable="false">允许管陪易访问麦克风</string>
+    <string name="permission_audio_desc" translatable="false">进行语音聊天和语音录入信息等</string>
+    <string name="has_promised" translatable="false">已允许</string>
+    <string name="go_to_setting" translatable="false">去设置</string>
+    <string name="go_to_study" translatable="false">去学习</string>
+    <string name="agree" translatable="false">同意</string>
+    <string name="unAgree" translatable="false">不同意</string>
+    <string name="unAgree_exit" translatable="false">不同意并退出</string>
+    <string name="unregister_account" translatable="false">注销账号</string>
+    <string name="confirm_unregister" translatable="false">确认注销</string>
+    <string name="more_benefits" translatable="false">更多福利</string>
+    <string name="unregister_hint1" translatable="false">注销账号前，请确认以下内容</string>
+
+    <string name="unregister_hint2" translatable="false">提交账号注销申请为不可逆操作。为保证您的账号、财产安全，并保证正常的社会公共秩序，在您提交太美平台账号注销请求前，请您选确认如下信息：\n
+    1、提交账号注销请求的为您本人，或获得账号持有者本人合法授权的代理人/代表人。后一种情形下，代理人/代表人需将本提示及注销过程中的所有文件，告知账号持有人者本人并确保本人已理解并同意前述文件的全部内容。\n
+    2、您申请注销的账号处于稳定且安全的状态（例如：未发生过被盗、被封等风险，在最近三个月内没有进行修改密码，换绑手机等敏感信息变更的操作等）\n
+    3、您是通过常用的安全设备向我方提交账号注销申请；\n
+    4、您在太美平台账号下的所有数据均已迁出及妥善备份，或您完全放弃保留，找回等数据的权利；\n
+    5、您提交账号注销申请，并非为了躲避正在或即将发生的纠纷诉讼，或规避主管部门的监管，或绕开法律法规的相关规定等不良意图</string>
+    <string name="unregister_hint3" translatable="false">太美平台账号删除协议</string>
+    <string name="unregister_hint4" translatable="false">提交账号注销申请为不可逆操作。\n
+1、账号注销后，您将无法再次登录太美平台旗下子系统、APP等； \n
+2、您在该账号下的个人信息、交易记录、业务数据、历史信息等均将无法找回。 \n
+3、您在该账户下的积分余额视为自动放弃。 \n
+4、如果您希望保持与此账号相关联的任务云服务，仅希望终止部分产品/资源，请不要继续后续操作。 \n
+5、提交申请后，我的账号XXX用户名（手机号码）将被删除，包含的内容、数据和服务都不可再恢复</string>
+
+    <string name="unregister_hint5" translatable="false">已了解《太美平台账号删除协议》</string>
+    <string name="safe_confirm" translatable="false">安全验证</string>
+    <string name="get_verification_code" translatable="false">发送验证码</string>
+    <string name="sending_verification_code" translatable="false">正在发送(%d)</string>
+    <string name="send_succeed" translatable="false">发送成功</string>
+    <string name="open_class_all_class" translatable="false">全部课程</string>
+    <string name="open_class_add_type" translatable="false">添加分类</string>
+    <string name="common_type" translatable="false">常用分类</string>
+    <string name="all_type" translatable="false">全部分类</string>
+    <string name="common_type_hint" translatable="false">最多可选3项，长按拖拽可排列应用</string>
+    <string name="class_list_search_hint" translatable="false">搜索课程名称/讲师姓名</string>
+    <string name="no_next_category" translatable="false">没有下一个分类了</string>
+    <string name="view_count" translatable="false">%d次浏览</string>
+    <string name="title_activity_trial_pal">TrialPalActivity</string>
+    <string name="number_of_class_data" translatable="false">%d个课件</string>
+    <string name="free_live" translatable="false">免费直播</string>
+    <string name="preferential_activity" translatable="false">优惠活动</string>
+    <string name="see_more" translatable="false">查看更多</string>
+    <string name="limit_time" translatable="false">限时</string>
+    <string name="hot_teacher" translatable="false">热门讲师</string>
+    <string name="change_someone" translatable="false">换一批</string>
+    <string name="rank_fine" translatable="false">精品榜</string>
+    <string name="rank_new" translatable="false">新课榜</string>
+    <string name="rank_hot" translatable="false">热卖榜</string>
+    <string name="more" translatable="false">更多</string>
+    <string name="times_view" translatable="false">%d次浏览</string>
+    <string name="times_buy" translatable="false">%d次购买</string>
+    <string name="date_publish" translatable="false">%s发布</string>
+    <string name="lesson" translatable="false">课程</string>
+    <string name="hint_recommend1" translatable="false">对于推荐的课程不感兴趣？</string>
+    <string name="hint_recommend2" translatable="false">试试按分类查看</string>
+    <string name="hint_search_course_teacher_name" translatable="false">搜索课程名称、讲师名字</string>
+    <string name="upload_failed" translatable="false">上传失败</string>
+    <string name="date" translatable="false">日期</string>
+    <string name="file_can_not_preview" translatable="false">该文件暂不支持预览</string>
+    <string name="file_not_exist" translatable="false">文件不存在</string>
+    <string name="please_open_read_write_retry" translatable="false">请打开文件读写权限后重试</string>
+    <string name="file_load_failed" translatable="false">文件加载失败，请稍后重试</string>
+    <string name="home_search_hint" translatable="false">文章、医院、课程、适应症等</string>
+    <string name="article_detail" translatable="false">文章详情</string>
+    <string name="notice_detail" translatable="false">公告详情</string>
+    <string name="add_common_app" translatable="false">添加常用</string>
+    <string name="home_app" translatable="false">首页应用</string>
+    <string name="long_press_to_drag" translatable="false">(长按拖拽可排列应用)</string>
+    <string name="add_to_home" translatable="false">已添加至首页</string>
+    <string name="remove_from_home" translatable="false">已从首页删除</string>
+    <string name="live" translatable="false">直播</string>
+    <string name="recruit" translatable="false">招募</string>
+    <string name="living" translatable="false">直播中</string>
+    <string name="living_watching_number" translatable="false">%d人正在观看</string>
+    <string name="appointment" translatable="false">预约</string>
+    <string name="look_back" translatable="false">回放</string>
+    <string name="guess_like" translatable="false">猜你喜欢</string>
+    <string name="header" translatable="false">头像</string>
+    <string name="bac_img" translatable="false">背景图</string>
+    <string name="nick_name" translatable="false">昵称</string>
+    <string name="nick_name_no_empty" translatable="false">昵称不能为空</string>
+    <string name="user_name" translatable="false">用户名</string>
+    <string name="mobile" translatable="false">手机号</string>
+    <string name="mail" translatable="false">邮箱</string>
+    <string name="identity" translatable="false">身份</string>
+    <string name="photo" translatable="false">拍照</string>
+    <string name="album" translatable="false">从相册选择</string>
+    <string name="third_already_login" translatable="false">当前账号%s已登录</string>
+    <string name="bind_mobile" translatable="false">绑定手机号登录</string>
+    <string name="hint_input_mobile" translatable="false">请输入手机号</string>
+    <string name="hint_input_password" translatable="false">请输入密码</string>
+    <string name="hint_input_verify_code" translatable="false">请输入验证码</string>
+    <string name="mobile_not_empty" translatable="false">手机号不能为空</string>
+    <string name="verify_code_not_empty" translatable="false">验证码不能为空</string>
+    <string name="hint_use_your_account" translatable="false">请选择你要使用的账号</string>
+    <string name="hint_use_your_map" translatable="false">请选择地图</string>
+
+
+    <string name="baidu_map" translatable="false">百度地图</string>
+    <string name="baidu_map_uninstalled" translatable="false">百度地图(未安装)</string>
+    <string name="gaode_map" translatable="false">高德地图</string>
+    <string name="gaode_map_uninstalled" translatable="false">高德地图(未安装)</string>
+    <string name="login_failed" translatable="false">登录失败</string>
+    <string name="get_sms_code_failed" translatable="false">获取验证码失败</string>
+    <string name="login_invalid" translatable="false">登录过期或账号在其它设备登录</string>
+    <string name="confirm_cancel_follow" translatable="false">是否取消关注?</string>
+    <string name="confirm_delete_now" translatable="false">是否确认删除?</string>
+    <string name="hint_install_alipay" translatable="false">请安装支付宝客户端</string>
+    <string name="hint_install_wechat" translatable="false">请安装微信客户端</string>
+
+    <string name="vip_card_share_title" translatable="false">TrialOS管陪易%s</string>
+    <string name="open_class_share_title" translatable="false">TrialOS管陪易公开课</string>
+    <string name="download_start" translatable="false">开始下载</string>
+    <string name="download_successful" translatable="false">下载成功</string>
+    <string name="download_failed" translatable="false">下载失败</string>
+    <string name="webview_err_text" translatable="false">网络不给力，请检查网络设置或稍后重试</string>
+    <string name="reload" translatable="false">重新加载</string>
+    <string name="close_page" translatable="false">关闭页面</string>
+    <string name="privacy_title" translatable="false">欢迎使用管陪易</string>
+    <string name="privacy_index" translatable="false">《隐私权政策》</string>
+    <string name="privacy_index2" translatable="false">在使用管陪易的各项服务前，请您务必仔细阅读并透彻理解本《隐私权政策》，在确认充分理解并同意后方使用相关产品和服务。一旦您开始使用管陪易，将被视为对本声明和政策内容的接受和认可。</string>
+
+    <string name="privacy_content" translatable="false">\t \t您的信任对我们非常重要，我们深知用户信息安全的重要性，我们将按照法律法规要求，采取安全保护措施，保护您的用户信息安全可控。鉴此，太美医疗科技制定本《隐私权政策》并提醒您：在使用管陪易的各项服务前，请您务必仔细阅读并透彻理解本《隐私权政策》，在确认充分理解并同意后方使用相关产品和服务。一旦您开始使用管陪易，将被视为对本声明和政策内容的接受和认可。</string>
+    <string name="privacy_content2" translatable="false">\t \t为了确保操作环境安全和识别账号异常状态，管陪易需向您申请必要的手机权限。当您开启权限后，APP才会收集必要的信息。</string>
+    <string name="privacy_content3" translatable="false">\t \t在阅读完本政策后，如您对本政策或与本政策相关的事宜有任何问题，您可通过本政策“如何联系我们”章节所列的反馈渠道联系我们，我们会尽快为您作出解答。</string>
+    <string name="common" translatable="false">通用</string>
+    <string name="pv" translatable="false">药物警戒</string>
+
+    <string name="auto_lang" translatable="false">自动检测语言</string>
+    <string name="chinese" translatable="false">中文</string>
+    <string name="english" translatable="false">English</string>
+    <string name="hint_translation" translatable="false">输入或粘贴要翻译的内容</string>
+    <string name="translation" translatable="false">翻译</string>
+    <string name="translation_result" translatable="false">翻译结果</string>
+    <string name="hot_live" translatable="false">热门直播</string>
+    <string name="zm_title" translatable="false">领取招募任务</string>
+    <string name="zm_content_1" translatable="false">您有1个招募任务待领取，确认领取进入CRC助手查看详情</string>
+    <string name="zm_content_2" translatable="false">该招募任务已被领取，进去CRC助手查看详情</string>
+    <string name="zm_confirm" translatable="false">确认领取</string>
+    <string name="zm_known" translatable="false">我知道了</string>
+    <string name="zm_hint_input" translatable="false">请输入真实姓名</string>
+    <string name="zm_name_not_empty" translatable="false">姓名不能为空</string>
+    <string name="vip_share_text" translatable="false">管陪易公开课会员，免费畅学%d门课程，%d个学科</string>
+    <string name="share_master" translatable="false">分享大使</string>
+    <string name="share_code" translatable="false">分享码:</string>
+    <string name="hint_read_write_permission" translatable="false">请打开系统读写权限</string>
+    <string name="file_loading" translatable="false">文件加载中，请稍候...</string>
+    <string name="modify_nick_name" translatable="false">修改昵称</string>
+    <string name="has_own_trialos" translatable="false">拥有自己的管陪易</string>
+    <string name="edit_user_info" translatable="false">编辑资料</string>
+    <string name="get_zan" translatable="false">获赞</string>
+    <string name="fans" translatable="false">粉丝</string>
+    <string name="focus" translatable="false">关注</string>
+    <string name="focused" translatable="false">已关注</string>
+    <string name="focus_each_other" translatable="false">相互关注</string>
+    <string name="name" translatable="false">姓名</string>
+    <string name="card" translatable="false">会员卡</string>
+    <string name="footmark" translatable="false">足迹</string>
+    <string name="zm" translatable="false">患者招募</string>
+    <string name="news" translatable="false">动态</string>
+    <string name="no_news" translatable="false">您还没有发布任何动态</string>
+    <string name="no_lesson" translatable="false">您还没有关联任何课程</string>
+    <string name="user_introduction" translatable="false">个人简介</string>
+    <string name="hint_introduce" translatable="false">简单介绍一下你自己吧, 不超过80个字符</string>
+    <string name="ask_qa" translatable="false">提问</string>
+    <string name="ask_qa_2" translatable="false">问</string>
+    <string name="save_success" translatable="false">保存成功</string>
+    <string name="right_now" translatable="false">刚刚</string>
+    <string name="min_before" translatable="false">%d分钟前</string>
+    <string name="hour_before" translatable="false">%d小时前</string>
+    <string name="day_before" translatable="false">%d天前</string>
+    <string name="follow_success" translatable="false">关注成功</string>
+    <string name="product_has_offline" translatable="false">商品已下架</string>
+    <string name="delete" translatable="false">删除</string>
+    <string name="delete_success" translatable="false">删除成功</string>
+    <string name="recent_lesson" translatable="false">最近学习</string>
+    <string name="see_all" translatable="false">查看全部</string>
+    <string name="community_norms" translatable="false">社区规范</string>
+    <string name="message_center" translatable="false">消息中心</string>
+    <string name="focus_on_you" translatable="false">关注了您</string>
+    <string name="zan_on_you" translatable="false">赞了您</string>
+    <string name="at_on_you" translatable="false">@了您</string>
+    <string name="comment_on_you" translatable="false">回复了您</string>
+    <string name="before" translatable="false">前</string>
+    <string name="focus_success" translatable="false">关注成功</string>
+    <string name="cancel_focus_success" translatable="false">取消关注成功</string>
+    <string name="no_to_do_task" translatable="false">暂无待办事项</string>
+    <string name="train" translatable="false">培训</string>
+    <string name="visit" translatable="false">访视</string>
+    <string name="task" translatable="false">任务</string>
+    <string name="zm_2" translatable="false">招募</string>
+    <string name="save" translatable="false">保存</string>
+    <string name="no_save" translatable="false">不保存</string>
+    <string name="is_save_profile" translatable="false">是否保存个人简介?</string>
+    <string name="scan" translatable="false">扫一扫</string>
+    <string name="norms_title" translatable="false">管陪易社区规范\n科学真诚、平等友好</string>
+    <string name="norms_content_1" translatable="false">管陪易致力于向广大医药行业从业者及患者提供一个高质量的交流社区。\n为了建设科学、友好、温暖的社区氛围，您在发布内容时需要遵循以下原则：</string>
+    <string name="norms_content_2" translatable="false">1. 请尊重他人</string>
+    <string name="norms_content_3" translatable="false">如果您发布的内容涉及他人，请征求当事人同意，并注意保护他人隐私、肖像、名誉等权利；如果您发布的内容涉及患者等弱势群体，请最大程度同理对方处境，维护对方尊严。</string>
+    <string name="norms_content_4" translatable="false">2. 请尊重原创，并保证内容的真实性</string>
+    <string name="norms_content_5" translatable="false">在管陪易进行分享和交流时，请保证所使用的素材来自于自己的经验或创造。如果需要借鉴，请确保有权使用，并注明引用出处；如需转载，请提前获得对方同意并注明出处。</string>
+    <string name="norms_content_6" translatable="false">3. 请不要轻易给人医疗建议</string>
+    <string name="norms_content_7" translatable="false">医疗关系到用户的人身健康，应由相关领域经过专业认证的人士给予相应的建议和指导。没有通过平台认证的用户应该避免发布此类内容，一经发现，平台将对此进行严惩。</string>
+    <string name="norms_content_8" translatable="false">4. 请不要在发布的内容中附带广告</string>
+    <string name="norms_content_9" translatable="false">管陪易致力于维护平等真实的医药行业交流生态，杜绝广告、虚假宣传。请勿发布任何带有商业推广性质的活动链接、二维码引导下载或交易行为。</string>
+    <string name="norms_content_10" translatable="false">5. 请相互理解，友善沟通</string>
+    <string name="norms_content_11" translatable="false">如果他人发布的内容与您的经验、看法不符，请先尽量考虑发布者的立场，同理他的心情，再做评价；如果存在不同观点，请理性看待，就事论事，不要进行人身攻击，发表辱骂性评论。</string>
+    <string name="norms_content_12" translatable="false">6. 请通过举报按钮，告诉我们您发现的涉嫌违规的内容和言论</string>
+    <string name="norms_content_13" translatable="false">涉嫌违规的内容经核实后，管陪易管理员会根据内容恶劣程度进行删除、禁言、封号等处理。如对管理员的处理有异议，可以通过页面的「申诉」功能进行反馈。</string>
+    <string name="norms_content_14" translatable="false">管陪易会随着社区管理经验的不断丰富，出于维护管陪易社区氛围和秩序的目的，不断完善本规范。感谢您的认可与支持～</string>
+    <string name="confirm_get_ticket" translatable="false">确认领取</string>
+    <string name="hint_input_get_ticket_password" translatable="false">请输入领券密码</string>
+    <string name="hint_input_completed_ticket_password" translatable="false">请输入完整的密码</string>
+    <string name="see" translatable="false">查看</string>
+    <string name="get_tickets_successful" translatable="false">成功领取「%s」的抵用券%d张</string>
+    <string name="see_how_to_use_ticket" translatable="false">查看抵用券如何使用?</string>
+    <string name="ticket_has_been_used" translatable="false">抵用券已经被领取</string>
+    <string name="ticket_use_method" translatable="false">抵用券使用方法</string>
+    <string name="system_message" translatable="false">系统通知</string>
+    <string name="icon_font_video" translatable="false">&#xe657;</string>
+    <string name="has_number_unread_message" translatable="false">您有 %d 条未读消息</string>
+    <string name="hint_system_message_get_tickets" translatable="false">您已获得%s%d张，查看抵用券如何使用？</string>
+    <string name="invalid_qr_code" translatable="false">无效的二维码</string>
+    <string name="msg_get_tickets" translatable="false">获得抵用券</string>
+
+    <string name="register_now" translatable="false">立即注册</string>
+</resources>

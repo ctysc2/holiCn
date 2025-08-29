@@ -1,0 +1,112 @@
+com/yalantis2/ucrop/UCropActivity.java
+ com.yalantis2.ucrop.UCropActivity
+ com.yalantis2.ucrop.UCropActivity$1
+ com.yalantis2.ucrop.UCropActivity$2
+ com.yalantis2.ucrop.UCropActivity$3
+ com.yalantis2.ucrop.UCropActivity$4
+ com.yalantis2.ucrop.UCropActivity$5
+ com.yalantis2.ucrop.UCropActivity$6
+ com.yalantis2.ucrop.UCropActivity$7
+ com.yalantis2.ucrop.UCropActivity$8
+ com.yalantis2.ucrop.UCropActivity$GestureTypes
+com/yalantis2/ucrop/callback/CropBoundsChangeListener.java
+ com.yalantis2.ucrop.callback.CropBoundsChangeListener
+com/yalantis2/ucrop/UCrop.java
+ com.yalantis2.ucrop.UCrop
+ com.yalantis2.ucrop.UCrop$Options
+com/yalantis2/ucrop/util/BitmapLoadUtils.java
+ com.yalantis2.ucrop.util.BitmapLoadUtils
+com/yalantis2/ucrop/view/GestureCropImageView.java
+ com.yalantis2.ucrop.view.GestureCropImageView
+ com.yalantis2.ucrop.view.GestureCropImageView$1
+ com.yalantis2.ucrop.view.GestureCropImageView$GestureListener
+ com.yalantis2.ucrop.view.GestureCropImageView$RotateListener
+ com.yalantis2.ucrop.view.GestureCropImageView$ScaleListener
+com/yalantis2/ucrop/callback/BitmapLoadCallback.java
+ com.yalantis2.ucrop.callback.BitmapLoadCallback
+com/yalantis2/ucrop/util/FastBitmapDrawable.java
+ com.yalantis2.ucrop.util.FastBitmapDrawable
+com/yalantis2/ucrop/model/AspectRatio.java
+ com.yalantis2.ucrop.model.AspectRatio
+ com.yalantis2.ucrop.model.AspectRatio$1
+com/yalantis2/ucrop/PicturePhotoGalleryAdapter.java
+ com.yalantis2.ucrop.PicturePhotoGalleryAdapter
+ com.yalantis2.ucrop.PicturePhotoGalleryAdapter$1
+ com.yalantis2.ucrop.PicturePhotoGalleryAdapter$2
+ com.yalantis2.ucrop.PicturePhotoGalleryAdapter$OnItemClickListener
+ com.yalantis2.ucrop.PicturePhotoGalleryAdapter$ViewHolder
+com/yalantis2/ucrop/callback/BitmapCropCallback.java
+ com.yalantis2.ucrop.callback.BitmapCropCallback
+com/yalantis2/ucrop/model/CropParameters.java
+ com.yalantis2.ucrop.model.CropParameters
+com/yalantis2/ucrop/task/BitmapCropTask.java
+ com.yalantis2.ucrop.task.BitmapCropTask
+com/yalantis2/ucrop/model/ImageState.java
+ com.yalantis2.ucrop.model.ImageState
+com/yalantis2/ucrop/util/ScreenUtils.java
+ com.yalantis2.ucrop.util.ScreenUtils
+com/yalantis2/ucrop/util/MimeType.java
+ com.yalantis2.ucrop.util.MimeType
+com/yalantis2/ucrop/util/FileUtils.java
+ com.yalantis2.ucrop.util.FileUtils
+com/yalantis2/ucrop/immersion/CropLightStatusBarUtils.java
+ com.yalantis2.ucrop.immersion.CropLightStatusBarUtils
+com/yalantis2/ucrop/BuildConfig.java
+ com.yalantis2.ucrop.BuildConfig
+com/yalantis2/ucrop/model/CutInfo.java
+ com.yalantis2.ucrop.model.CutInfo
+ com.yalantis2.ucrop.model.CutInfo$1
+com/yalantis2/ucrop/util/ImageHeaderParser.java
+ com.yalantis2.ucrop.util.ImageHeaderParser
+ com.yalantis2.ucrop.util.ImageHeaderParser$RandomAccessReader
+ com.yalantis2.ucrop.util.ImageHeaderParser$Reader
+ com.yalantis2.ucrop.util.ImageHeaderParser$StreamReader
+com/yalantis2/ucrop/PictureMultiCuttingActivity.java
+ com.yalantis2.ucrop.PictureMultiCuttingActivity
+ com.yalantis2.ucrop.PictureMultiCuttingActivity$1
+com/yalantis2/ucrop/view/widget/AspectRatioTextView.java
+ com.yalantis2.ucrop.view.widget.AspectRatioTextView
+com/yalantis2/ucrop/view/CropImageView.java
+ com.yalantis2.ucrop.view.CropImageView
+ com.yalantis2.ucrop.view.CropImageView$WrapCropBoundsRunnable
+ com.yalantis2.ucrop.view.CropImageView$ZoomImageToPosition
+com/yalantis2/ucrop/view/OverlayView.java
+ com.yalantis2.ucrop.view.OverlayView
+ com.yalantis2.ucrop.view.OverlayView$FreestyleMode
+com/yalantis2/ucrop/util/CubicEasing.java
+ com.yalantis2.ucrop.util.CubicEasing
+com/yalantis2/ucrop/immersion/CropImmersiveManage.java
+ com.yalantis2.ucrop.immersion.CropImmersiveManage
+com/yalantis2/ucrop/view/TransformImageView.java
+ com.yalantis2.ucrop.view.TransformImageView
+ com.yalantis2.ucrop.view.TransformImageView$1
+ com.yalantis2.ucrop.view.TransformImageView$TransformImageListener
+com/yalantis2/ucrop/util/SdkUtils.java
+ com.yalantis2.ucrop.util.SdkUtils
+com/yalantis2/ucrop/util/EglUtils.java
+ com.yalantis2.ucrop.util.EglUtils
+com/yalantis2/ucrop/util/RotationGestureDetector.java
+ com.yalantis2.ucrop.util.RotationGestureDetector
+ com.yalantis2.ucrop.util.RotationGestureDetector$OnRotationGestureListener
+ com.yalantis2.ucrop.util.RotationGestureDetector$SimpleOnRotationGestureListener
+com/yalantis2/ucrop/task/BitmapLoadTask.java
+ com.yalantis2.ucrop.task.BitmapLoadTask
+ com.yalantis2.ucrop.task.BitmapLoadTask$BitmapWorkerResult
+com/yalantis2/ucrop/util/SelectedStateListDrawable.java
+ com.yalantis2.ucrop.util.SelectedStateListDrawable
+com/yalantis2/ucrop/view/UCropView.java
+ com.yalantis2.ucrop.view.UCropView
+ com.yalantis2.ucrop.view.UCropView$1
+ com.yalantis2.ucrop.view.UCropView$2
+com/yalantis2/ucrop/view/widget/HorizontalProgressWheelView.java
+ com.yalantis2.ucrop.view.widget.HorizontalProgressWheelView
+ com.yalantis2.ucrop.view.widget.HorizontalProgressWheelView$ScrollingListener
+com/yalantis2/ucrop/model/ExifInfo.java
+ com.yalantis2.ucrop.model.ExifInfo
+com/yalantis2/ucrop/callback/OverlayViewChangeListener.java
+ com.yalantis2.ucrop.callback.OverlayViewChangeListener
+com/yalantis2/ucrop/immersion/CropRomUtils.java
+ com.yalantis2.ucrop.immersion.CropRomUtils
+ com.yalantis2.ucrop.immersion.CropRomUtils$AvailableRomType
+com/yalantis2/ucrop/util/RectUtils.java
+ com.yalantis2.ucrop.util.RectUtils

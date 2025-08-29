@@ -1,0 +1,2 @@
+com/heaven7/android/dragflowlayout/test/BuildConfig.java
+ com.heaven7.android.dragflowlayout.test.BuildConfig

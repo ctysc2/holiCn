@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference|color" name="picture.ac_preview.bottom.bg"/>
+    <attr format="reference|color" name="picture.ac_preview.complete.textColor"/>
+    <attr format="reference|color" name="picture.ac_preview.title.bg"/>
+    <attr format="reference|color" name="picture.ac_preview.title.textColor"/>
+    <attr format="reference" name="picture.arrow_down.icon"/>
+    <attr format="reference" name="picture.arrow_up.icon"/>
+    <attr format="reference|color" name="picture.bottom.bg"/>
+    <attr format="reference" name="picture.checked.style"/>
+    <attr format="reference|color" name="picture.complete.textColor"/>
+    <attr format="reference|color" name="picture.crop.status.color"/>
+    <attr format="reference|color" name="picture.crop.title.color"/>
+    <attr format="reference|color" name="picture.crop.toolbar.bg"/>
+    <attr format="reference" name="picture.folder_checked_dot"/>
+    <attr format="reference" name="picture.leftBack.icon"/>
+    <attr format="reference" name="picture.num.style"/>
+    <attr format="reference" name="picture.preview.leftBack.icon"/>
+    <attr format="reference|color" name="picture.preview.textColor"/>
+    <attr format="reference|color" name="picture.right.textColor"/>
+    <attr format="reference|color" name="picture.status.color"/>
+    <attr format="boolean" name="picture.statusFontColor"/>
+    <attr format="boolean" name="picture.style.checkNumMode"/>
+    <attr format="boolean" name="picture.style.numComplete"/>
+    <attr format="reference|color" name="picture.title.textColor"/>
+    <color name="picture_color_030303">#030303</color>
+    <color name="picture_color_20">#20000000</color>
+    <color name="picture_color_20c064">#20c064</color>
+    <color name="picture_color_394a3e">#394a3e</color>
+    <color name="picture_color_4d">#4d4d4d</color>
+    <color name="picture_color_4e4d4e">#4e4d4e</color>
+    <color name="picture_color_53575e">#53575e</color>
+    <color name="picture_color_70">#70000000</color>
+    <color name="picture_color_80">#80000000</color>
+    <color name="picture_color_9b">#9b9b9b</color>
+    <color name="picture_color_a83">#a8333333</color>
+    <color name="picture_color_aab2bd">#AAB2BD</color>
+    <color name="picture_color_ba3">#b0567ba3</color>
+    <color name="picture_color_bfe85d">#BF96E85D</color>
+    <color name="picture_color_black">#000000</color>
+    <color name="picture_color_blue">#7D7DFF</color>
+    <color name="picture_color_e">#EEEEEE</color>
+    <color name="picture_color_e0ff6100">#E0FF6100</color>
+    <color name="picture_color_eb">#ebebeb</color>
+    <color name="picture_color_ec">#ececec</color>
+    <color name="picture_color_f0">#F0F0F0</color>
+    <color name="picture_color_f2">#F2F2F2</color>
+    <color name="picture_color_fa">#FAFAFA</color>
+    <color name="picture_color_fa632d">#FA632D</color>
+    <color name="picture_color_ffd042">#FFFFD042</color>
+    <color name="picture_color_ffe85d">#FF96E85D</color>
+    <color name="picture_color_grey">#393a3e</color>
+    <color name="picture_color_grey_3e">#dd393a3e</color>
+    <color name="picture_color_half_grey">#a0393a3e</color>
+    <color name="picture_color_light_grey">#999999</color>
+    <color name="picture_color_transparent">#00000000</color>
+    <color name="picture_color_transparent_e0db">#E0DBDBDB</color>
+    <color name="picture_color_transparent_white">#F0FFFFFF</color>
+    <color name="picture_color_white">#FFFFFF</color>
+    <string name="picture_all_audio">所有音频</string>
+    <string name="picture_audio">获取系统录音权限被拒绝</string>
+    <string name="picture_audio_empty">你可以使用系统录音录制音频</string>
+    <string name="picture_audio_error">音频已损坏</string>
+    <string name="picture_camera">获取系统相机权限被拒绝</string>
+    <string name="picture_camera_roll">所有照片</string>
+    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
+    <string name="picture_cancel">取消</string>
+    <string name="picture_choose_limit_seconds">只能选择 %1$ds 至 %2$ds内的视频</string>
+    <string name="picture_choose_max_seconds">最大只能选择 %1$ds 以内的视频</string>
+    <string name="picture_choose_min_seconds">不能选择低于 %1$ds 内的视频</string>
+    <string name="picture_completed">已完成</string>
+    <string name="picture_confirm">确定</string>
+    <string name="picture_data_exception">获取相册数据异常...</string>
+    <string name="picture_done">完 成</string>
+    <string name="picture_done_front_num">%1$d/%2$d 完成</string>
+    <string name="picture_empty">你可以使用相机拍摄照片或视频</string>
+    <string name="picture_empty_audio_title">无音频文件\n</string>
+    <string name="picture_empty_title">无视频或照片\n</string>
+    <string name="picture_error">图片已损坏</string>
+    <string name="picture_gif_tag">动图</string>
+    <string name="picture_go_setting">去设置</string>
+    <string name="picture_jurisdiction">读取内存卡权限被拒绝</string>
+    <string name="picture_long_chart">长图</string>
+    <string name="picture_message_audio_max_num">你最多可以选择%1$s个音频</string>
+    <string name="picture_message_max_num">您最多可以选择%1$s张图片</string>
+    <string name="picture_message_video_max_num">你最多可以选择%1$s个视频</string>
+    <string name="picture_min_img_num">请至少选择%1$s张图片</string>
+    <string name="picture_min_video_num">视频最低选择不能少于%1$s个</string>
+    <string name="picture_not_crop_data">无可用裁剪数据</string>
+    <string name="picture_original_image">原图</string>
+    <string name="picture_pause_audio">暂停</string>
+    <string name="picture_photo_camera">单击拍照，长按摄像</string>
+    <string name="picture_photo_pictures">单击拍照</string>
+    <string name="picture_photo_recording">长按摄像</string>
+    <string name="picture_photograph">拍照</string>
+    <string name="picture_play_audio">播放</string>
+    <string name="picture_please">请稍候...</string>
+    <string name="picture_please_select">请选择</string>
+    <string name="picture_preview">预览</string>
+    <string name="picture_preview_image_num">%1$d/%2$d</string>
+    <string name="picture_preview_num">预览(%1$d)</string>
+    <string name="picture_prompt">提示</string>
+    <string name="picture_prompt_content">是否保存图片至手机？</string>
+    <string name="picture_quit_audio">退出</string>
+    <string name="picture_record_video">录视频</string>
+    <string name="picture_recording_time_is_short">录制时间过短</string>
+    <string name="picture_rule">不能同时选择图片或视频</string>
+    <string name="picture_save_error">图片保存失败</string>
+    <string name="picture_save_success">图片保存成功至</string>
+    <string name="picture_select">选择</string>
+    <string name="picture_select_at_least_one">请选择至少一张图片</string>
+    <string name="picture_send">完成</string>
+    <string name="picture_send_num">完成(%1$d/%2$d)</string>
+    <string name="picture_stop_audio">停止</string>
+    <string name="picture_take">选取</string>
+    <string name="picture_take_picture">拍摄</string>
+    <string name="picture_tape">录音</string>
+    <string name="picture_video_error">视频已损坏</string>
+    <string name="picture_video_toast">视频不可预览</string>
+    <string name="picture_warning">暂无媒体文件！</string>
+    <style name="Base.Theme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar"/>
+    <style name="Picture.Theme.AlertDialog" parent="android:Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@color/picture_color_transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+    </style>
+    <style name="Picture.Theme.Dialog" parent="@android:style/Theme.Dialog">
+
+        <!-- 边框 -->
+        <item name="android:windowFrame">@android:color/transparent</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 无标题 -->
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+
+        <!-- 自己想要的背景 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="Picture.Theme.Dialog.AudioStyle">
+        <item name="android:windowEnterAnimation">@anim/picture_anim_enter</item>
+        <item name="android:windowExitAnimation">@anim/picture_anim_exit</item>
+    </style>
+    <style name="Picture.Theme.Translucent" parent="Base.Theme.NoActionBar">
+        <item name="android:windowBackground">@color/picture_color_transparent
+        </item> <!-- 背景色透明度 -->
+        <item name="windowNoTitle">true</item><!-- 无标题 -->
+        <item name="android:windowIsTranslucent">true</item><!-- 半透明,设置为false无透明效果 -->
+    </style>
+    <style mce_bogus="1" name="PictureThemeDialogFragmentAnim" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/picture_anim_up_in</item>
+        <item name="android:windowExitAnimation">@anim/picture_anim_down_out</item>
+    </style>
+    <style name="PictureThemeDialogWindowStyle">
+        <item name="android:windowEnterAnimation">@anim/picture_anim_modal_in</item>
+        <item name="android:windowExitAnimation">@anim/picture_anim_modal_out</item>
+    </style>
+    <style name="PictureThemeWindowStyle">
+        <item name="android:windowEnterAnimation">@anim/picture_anim_album_show</item>
+        <item name="android:windowExitAnimation">@anim/picture_anim_album_dismiss</item>
+    </style>
+    <style name="picture.default.style" parent="Base.Theme.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--标题栏背景色-->
+        <item name="colorPrimary">@color/picture_color_white</item>
+        <!--状态栏背景色-->
+        <item name="colorPrimaryDark">@color/picture_color_grey</item>
+        <!--是否改变图片列表界面状态栏字体颜色为黑色-->
+        <item name="picture.statusFontColor">false</item>
+        <!--返回键图标-->
+        <item name="picture.leftBack.icon">@drawable/back</item>
+        <!--标题下拉箭头-->
+        <item name="picture.arrow_down.icon">@drawable/picture_icon_arrow_down</item>
+        <!--标题上拉箭头-->
+        <item name="picture.arrow_up.icon">@drawable/picture_icon_arrow_up</item>
+        <!--标题文字颜色-->
+        <item name="picture.title.textColor">@color/picture_color_030303</item>
+        <!--标题栏右边文字-->
+        <item name="picture.right.textColor">@color/picture_color_white</item>
+        <!--图片列表勾选样式-->
+        <item name="picture.checked.style">@drawable/picture_checkbox_selector</item>
+        <!--开启图片列表勾选数字模式-->
+        <item name="picture.style.checkNumMode">false</item>
+        <!--选择图片样式0/9-->
+        <item name="picture.style.numComplete">false</item>
+        <!--图片列表底部背景色-->
+        <item name="picture.bottom.bg">@color/picture_color_grey</item>
+        <!--图片列表预览文字颜色-->
+        <item name="picture.preview.textColor">@color/picture_list_text_color</item>
+        <!--图片列表已完成文字颜色-->
+        <item name="picture.complete.textColor">@color/picture_list_text_color</item>
+        <!--图片已选数量圆点背景色-->
+        <item name="picture.num.style">@drawable/picture_num_oval</item>
+        <!--预览界面标题文字颜色-->
+        <item name="picture.ac_preview.title.textColor">@color/picture_color_white</item>
+        <!--预览界面已完成文字颜色-->
+        <item name="picture.ac_preview.complete.textColor">@color/picture_list_text_color</item>
+        <!--预览界面标题栏背景色-->
+        <item name="picture.ac_preview.title.bg">@color/picture_color_grey</item>
+        <!--预览界面底部背景色-->
+        <item name="picture.ac_preview.bottom.bg">@color/picture_color_grey</item>
+        <!--预览界面返回箭头-->
+        <item name="picture.preview.leftBack.icon">@drawable/picture_icon_back</item>
+        <!--裁剪页面标题背景色-->
+        <item name="picture.crop.toolbar.bg">@color/picture_color_grey</item>
+        <!--裁剪页面状态栏颜色-->
+        <item name="picture.crop.status.color">@color/picture_color_grey</item>
+        <!--裁剪页面标题文字颜色-->
+        <item name="picture.crop.title.color">@color/picture_color_white</item>
+        <!--相册文件夹列表选中图标-->
+        <item name="picture.folder_checked_dot">@drawable/picture_orange_oval</item>
+    </style>
+    <declare-styleable name="CameraView">
+        <attr format="enum" name="scaleType">
+            <enum name="centerCrop" value="0"/>
+            <enum name="centerInside" value="1"/>
+        </attr>
+        <attr format="enum" name="lensFacing">
+            <enum name="none" value="0"/>
+            <enum name="front" value="1"/>
+            <enum name="back" value="2"/>
+        </attr>
+        <attr format="enum" name="captureMode">
+            <enum name="image" value="0"/>
+            <enum name="video" value="1"/>
+            <enum name="mixed" value="2"/>
+        </attr>
+        <attr format="enum" name="flash">
+            <enum name="auto" value="1"/>
+            <enum name="on" value="2"/>
+            <enum name="off" value="4"/>
+        </attr>
+
+        <attr format="boolean" name="pinchToZoomEnabled"/>
+    </declare-styleable>
+    <declare-styleable name="PreviewView">
+        <attr format="enum" name="implementationMode">
+            <enum name="surfaceView" value="0"/>
+            <enum name="textureView" value="1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="SubsamplingScaleImageView">
+        <attr format="reference" name="src"/>
+        <attr format="string" name="assetName"/>
+        <attr format="boolean" name="panEnabled"/>
+        <attr format="boolean" name="zoomEnabled"/>
+        <attr format="boolean" name="quickScaleEnabled"/>
+        <attr format="color" name="tileBackgroundColor"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,2 @@
+com/yalantis2/ucrop/test/BuildConfig.java
+ com.yalantis2.ucrop.test.BuildConfig

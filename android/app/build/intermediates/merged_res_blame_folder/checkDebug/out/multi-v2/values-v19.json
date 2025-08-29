@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/cty/projects/holimobile/androiddemo/android/app/build/intermediates/incremental/mergeCheckDebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/Users/cty/projects/holimobile/androiddemo/android/picture_library/build/intermediates/packaged_res/debug/values-v19/values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "335"
+                    }
+                }
+            ]
+        }
+    ]
+}

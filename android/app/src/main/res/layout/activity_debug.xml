@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <include layout="@layout/common_toolbar"
+        />
+    <EditText
+        android:id="@+id/et_input"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="left|start"
+        android:padding="20dp"
+        android:background="@drawable/shape_introduce_bac"
+        android:layout_marginHorizontal="20dp"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/bt_clear"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="清空"
+            android:layout_height="45dp"/>
+        <Button
+            android:id="@+id/bt_add_header"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="加导航"
+            android:layout_marginLeft="30dp"
+            android:layout_height="45dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/bt_remove_header"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="去导航"
+            android:layout_height="45dp"/>
+        <Button
+            android:id="@+id/bt_confirm"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="确认"
+            android:layout_marginLeft="30dp"
+            android:layout_height="45dp"/>
+    </LinearLayout>
+
+</LinearLayout>

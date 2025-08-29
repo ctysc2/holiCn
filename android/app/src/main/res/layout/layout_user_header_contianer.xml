@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/ll_header_container"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+    <com.holimobile.customerView.userCard.UserCardView
+        android:id="@+id/user_card_view"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"/>
+    <HorizontalScrollView
+        android:id="@+id/hor_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="16dp"
+        android:scrollbars="none"
+        >
+        <LinearLayout
+            android:id="@+id/ll_entry_card_container"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_height="match_parent">
+        </LinearLayout>
+    </HorizontalScrollView>
+    <com.holimobile.customerView.centerTabbar.CenterTabBar
+        android:id="@+id/center_tab_bar"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
+

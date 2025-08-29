@@ -1,0 +1,2 @@
+com/example/zxingqr/ExampleUnitTest.java
+ com.example.zxingqr.ExampleUnitTest

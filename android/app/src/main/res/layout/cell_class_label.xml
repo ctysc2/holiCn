@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/tv_label"
+    android:gravity="center"
+    android:paddingLeft="12dp"
+    android:paddingRight="12dp"
+    android:textSize="12sp"
+    android:textColor="@color/black"
+    android:layout_marginRight="10dp"
+    android:minWidth="40dp"
+    android:background="@drawable/selector_class_label"
+    android:layout_height="28dp"/>
+
+
