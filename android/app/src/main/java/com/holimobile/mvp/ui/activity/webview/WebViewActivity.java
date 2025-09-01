@@ -535,7 +535,7 @@ public class WebViewActivity extends BaseActivity {
                             @Override
                             public void allow() {
                                 Log.i("LocationApp","111");
-                                PermissionUtils.checkRequestPermission(WebViewActivity.this, Manifest.permission.ACCESS_COARSE_LOCATION, rxPermissions, new PermissionUtils.OnPermissionResultListener() {
+                                PermissionUtils.checkRequestPermission(WebViewActivity.this, Manifest.permission.ACCESS_FINE_LOCATION, rxPermissions, new PermissionUtils.OnPermissionResultListener() {
                                     @Override
                                     public void allow() {
                                         Log.i("LocationApp","222");
