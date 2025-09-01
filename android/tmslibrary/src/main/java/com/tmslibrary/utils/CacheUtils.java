@@ -13,7 +13,7 @@ public class CacheUtils {
     }
 
     public static void clearLoginInfo(Context context){
-        PreferenceUtils.setPrefString(context,Const.KEY_TOKEN,"");
+        PreferenceUtils.setPrefString(context,Const.KEY_HOLI_T,"");
         PreferenceUtils.setPrefString(context,Const.KEY_USER_ID,"");
         PreferenceUtils.setPrefObject(context,Const.KEY_USER_INFO,null);
         PreferenceUtils.setPrefObject(context,Const.KEY_PREFERENCE,null);

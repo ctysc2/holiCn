@@ -35,7 +35,7 @@ public class Application extends android.app.Application {
             StrictMode.VmPolicy.Builder builder = new StrictMode.VmPolicy.Builder();
             StrictMode.setVmPolicy(builder.build());
             builder.detectFileUriExposure();
-            disableAPIDialog();
+            //disableAPIDialog();
             TmsLibraryApp.preInit(this, BuildConfig.env,BuildConfig.APPLICATION_ID,BuildConfig.VERSION_NAME,BuildConfig.VERSION_CODE);
             //initCloudChannel(this);
         }
@@ -102,21 +102,21 @@ public class Application extends android.app.Application {
         super.attachBaseContext(base);
         MultiDex.install(this);
     }
-    private void disableAPIDialog() {
-        if (Build.VERSION.SDK_INT < 28) return;
-        try {
-            Class clazz = Class.forName("android.app.ActivityThread");
-            Method currentActivityThread = clazz.getDeclaredMethod("currentActivityThread");
-            currentActivityThread.setAccessible(true);
-            Object activityThread = currentActivityThread.invoke(null);
-            Field mHiddenApiWarningShown = clazz.getDeclaredField("mHiddenApiWarningShown");
-            mHiddenApiWarningShown.setAccessible(true);
-            mHiddenApiWarningShown.setBoolean(activityThread, true);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-
-    }
+//    private void disableAPIDialog() {
+//        if (Build.VERSION.SDK_INT < 28) return;
+//        try {
+//            Class clazz = Class.forName("android.app.ActivityThread");
+//            Method currentActivityThread = clazz.getDeclaredMethod("currentActivityThread");
+//            currentActivityThread.setAccessible(true);
+//            Object activityThread = currentActivityThread.invoke(null);
+//            Field mHiddenApiWarningShown = clazz.getDeclaredField("mHiddenApiWarningShown");
+//            mHiddenApiWarningShown.setAccessible(true);
+//            mHiddenApiWarningShown.setBoolean(activityThread, true);
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+//
+//    }
 
     @Override
     public void onTrimMemory(int level) {

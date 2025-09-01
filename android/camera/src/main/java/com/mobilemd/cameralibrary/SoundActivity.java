@@ -124,7 +124,7 @@ public class SoundActivity extends AppCompatActivity {
             btnConfirm.setVisibility(View.GONE);
             if(playUrl.startsWith("http")){
                 if(!playUrl.substring(playUrl.lastIndexOf("/") + 1).contains(".")) {
-                    playUrl += "?TM_token=" + UploadUtils.token;
+                    playUrl += "?tms_t=" + UploadUtils.tms_t;
                 }
             }
             audioRecorder.play(playUrl);

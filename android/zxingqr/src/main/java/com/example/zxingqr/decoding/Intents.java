@@ -170,7 +170,7 @@ public final class Intents {
         /**
          * The network to connect to, all the configuration provided here.
          */
-        public static final String PASSWORD = "PASSWORD";
+        //public static final String PASSWORD = "PASSWORD";
 
         private WifiConnect() {
         }

@@ -6,16 +6,9 @@
     <uses-sdk tools:overrideLibrary="androidx.camera:camera-camera2:1.0.0-alpha08,
     androidx.camera.camera2,androidx.camera.lifecycle,androidx.camera.core" />
 
-    <application>
-<!--        <provider-->
-<!--            android:name="com.luck.picture.lib.PictureFileProvider"-->
-<!--            android:authorities="${applicationId}.provider"-->
-<!--            android:exported="false"-->
-<!--            android:grantUriPermissions="true">-->
-<!--            <meta-data-->
-<!--                android:name="android.support.FILE_PROVIDER_PATHS"-->
-<!--                android:resource="@xml/file_paths" />-->
-<!--        </provider>-->
+    <application
+        android:networkSecurityConfig="@xml/network_security_config"
+        >
 
         <activity
             android:name=".PictureSelectorActivity"

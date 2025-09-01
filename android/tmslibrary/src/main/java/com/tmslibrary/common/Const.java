@@ -1,8 +1,7 @@
 package com.tmslibrary.common;
 
 public class Const {
-    public static final String KEY_TOKEN = "token";
-    public static final String KEY_ENV_TOKEN = "environmentToken";
+    public static final String KEY_HOLI_T = "holi_t";
     public static final String KEY_TENANT_ID = "tenantId";
     public static final String KEY_USER_ID = "userId";
     public static final String KEY_PUSH_LOGIN_ID = "pushLoginId";

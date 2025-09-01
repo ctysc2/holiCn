@@ -58,7 +58,7 @@ public class VideoActivity extends AppCompatActivity {
 
         if(urlPath.startsWith("http")){
             if(!urlPath.substring(urlPath.lastIndexOf("/") + 1).contains(".")) {
-                urlPath += "?TM_token=" + UploadUtils.token;
+                urlPath += "?tms_t=" + UploadUtils.tms_t;
             }
         }
         videoView.setVideoPath(urlPath);

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- 全局禁止明文 HTTP 流量 -->
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <!-- 只信任系统证书 -->
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>

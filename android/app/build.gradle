@@ -40,7 +40,7 @@ android {
     compileSdkVersion 29
     defaultConfig {
         applicationId "com.trialosapp"
-        minSdkVersion 23
+        minSdkVersion 24
         targetSdkVersion 34
         versionCode currentVersionCode
         versionName versionShort

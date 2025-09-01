@@ -7,4 +7,5 @@
 .externalNativeBuild
 .idea
 gradle
+gradle.properties
 

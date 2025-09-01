@@ -84,8 +84,8 @@ public class CropLightStatusBarUtils {
                         .getDeclaredField("MEIZU_FLAG_DARK_STATUS_BAR_ICON");
                 Field meizuFlags = WindowManager.LayoutParams.class
                         .getDeclaredField("meizuFlags");
-                darkFlag.setAccessible(true);
-                meizuFlags.setAccessible(true);
+                //darkFlag.setAccessible(true);
+                //meizuFlags.setAccessible(true);
                 int bit = darkFlag.getInt(null);
                 int value = meizuFlags.getInt(lp);
                 if (dark) {

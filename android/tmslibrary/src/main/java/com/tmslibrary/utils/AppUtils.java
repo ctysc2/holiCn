@@ -71,7 +71,7 @@ public class AppUtils {
 
 
     public static boolean isLogin(){
-        String token = PreferenceUtils.getPrefString(TmsLibraryApp.getInstances(), Const.KEY_TOKEN,"");
+        String token = PreferenceUtils.getPrefString(TmsLibraryApp.getInstances(), Const.KEY_HOLI_T,"");
         if(TextUtils.isEmpty(token)){
             return false;
         }else{
@@ -80,12 +80,12 @@ public class AppUtils {
     }
 
     public static String getToken(){
-        String token = PreferenceUtils.getPrefString(TmsLibraryApp.getInstances(),Const.KEY_TOKEN,"");
+        String token = PreferenceUtils.getPrefString(TmsLibraryApp.getInstances(),Const.KEY_HOLI_T,"");
         return token;
     }
 
     public static void setToken(String token){
-        PreferenceUtils.setPrefString(TmsLibraryApp.getInstances(),Const.KEY_TOKEN,token);
+        PreferenceUtils.setPrefString(TmsLibraryApp.getInstances(),Const.KEY_HOLI_T,token);
     }
 
     public static void setCookies(Context context){

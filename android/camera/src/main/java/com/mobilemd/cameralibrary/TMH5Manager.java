@@ -110,7 +110,7 @@ public class TMH5Manager implements UploadUtils.UploadListener{
                     if(str.contains("token")){
                         String[] tokens = str.split("=");
                         if(tokens != null && tokens.length > 1){
-                            UploadUtils.token = tokens[1];
+                            UploadUtils.tms_t = tokens[1];
                         }
                         break;
                     }

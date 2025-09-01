@@ -97,7 +97,7 @@ public class OkHttpNetworkFetcher extends BaseNetworkFetcher {
     private Request buildRequest(FetchState fetchState){
         DisplayMetrics dm  = mAppContext.getResources().getDisplayMetrics();
         int density =  dm.densityDpi;
-        String token = PreferenceUtils.getPrefString(TmsLibraryApp.getInstances(), Const.KEY_TOKEN,"");
+        String token = PreferenceUtils.getPrefString(TmsLibraryApp.getInstances(), Const.KEY_HOLI_T,"");
         Log.i("TOKEN","buildRequest token:"+token);
         return new Request.Builder()
                 .addHeader("x-density", String.valueOf(density))

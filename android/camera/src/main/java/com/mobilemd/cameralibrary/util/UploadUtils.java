@@ -30,7 +30,7 @@ import okhttp3.Response;
  **/
 public class UploadUtils {
 
-    public static String token = "";
+    public static String tms_t = "";
 
     private static int current = 0;
 
@@ -75,7 +75,7 @@ public class UploadUtils {
                 .readTimeOut(1000 * 1000 * 1000)
                 .writeTimeOut(1000 * 1000 * 1000)
                 .cacheMode(CacheMode.NO_CACHE)
-                .headers("TM-Header-Token", token)
+                .headers("TM-Header-T", tms_t)
                 .params("appId", "eVisit")
                 .params("processor", "resources")
 //                .params("videoCodeType", "1")
